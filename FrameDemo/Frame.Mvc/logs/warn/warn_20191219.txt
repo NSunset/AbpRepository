@@ -1,0 +1,90 @@
+2019-12-19 13:57:02,987 [1] WARN  Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - No class found derived from AbpDbContext.
+2019-12-19 13:57:06,633 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-19 13:57:06,645 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-19 13:57:07,477 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-19 13:57:07,522 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-19 14:14:34,131 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-19 14:14:34,142 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-19 14:14:35,861 [10] WARN  Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+2019-12-19 14:14:47,444 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-19 14:14:47,469 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-19 14:14:57,191 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-19 14:14:57,217 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-19 14:16:45,173 [23] WARN  Microsoft.AspNetCore.Server.Kestrel - Heartbeat took longer than "00:00:01" at "12/19/2019 06:16:43 +00:00".
+2019-12-19 14:18:00,048 [25] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-19 14:18:00,054 [25] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-19 14:18:36,220 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-19 14:18:36,241 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-19 14:19:28,996 [1] WARN  Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - No class found derived from AbpDbContext.
+2019-12-19 14:19:30,772 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-19 14:19:30,804 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-19 14:19:31,130 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-19 14:19:31,134 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-19 14:19:35,933 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-19 14:19:35,958 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-19 14:21:53,303 [1] WARN  Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - No class found derived from AbpDbContext.
+2019-12-19 14:21:55,076 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-19 14:21:55,101 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-19 14:21:55,393 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-19 14:21:55,400 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-19 14:21:59,356 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-19 14:21:59,380 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-19 14:23:50,409 [19] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-19 14:23:50,445 [19] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-19 14:23:50,649 [19] WARN  Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+2019-12-19 14:24:02,070 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-19 14:24:02,095 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.

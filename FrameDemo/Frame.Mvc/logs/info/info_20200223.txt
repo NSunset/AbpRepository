@@ -1,0 +1,7 @@
+2020-02-23 14:45:42,565 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/index.html  
+2020-02-23 14:45:43,418 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 876.5147ms 200 text/html
+2020-02-23 14:45:44,112 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/V2/swagger.json  
+2020-02-23 14:45:44,257 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/profiler/results application/json 9
+2020-02-23 14:45:44,687 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-02-23 14:45:44,868 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 714.8128ms 404 text/plain
+2020-02-23 14:45:45,064 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 931.0755ms 200 application/json;charset=utf-8

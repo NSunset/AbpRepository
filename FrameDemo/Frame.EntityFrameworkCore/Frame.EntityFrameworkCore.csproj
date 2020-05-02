@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20191225065821_InitialCreate.cs" />
+    <Compile Remove="Migrations\20191225074449_AddPermissionIoc.cs" />
+    <Compile Remove="Migrations\20191225081016_InitialCreate.cs" />
+    <Compile Remove="Migrations\20191225081643_UpdatePermissionFieldType.cs" />
+    <Compile Remove="Migrations\20191225082824_alterPermissionFieldType.cs" />
+    <Compile Remove="Migrations\20191225083746_alterPermissionFildType.cs" />
+    <Compile Remove="Migrations\20191230053423_InitialCreate.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ABP\Abp.EntityFrameworkCore\Abp.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\Frame.Common\Frame.Common.csproj" />
+    <ProjectReference Include="..\Frame.Domain\Frame.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.2.0" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql.Design" Version="1.1.2" />
+  </ItemGroup>
+
+</Project>

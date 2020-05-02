@@ -1,0 +1,173 @@
+2020-01-06 14:56:36,702 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 14:56:36,725 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 14:56:37,173 [17] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 14:56:37,179 [17] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 14:56:37,223 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 14:56:37,229 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:12:18,956 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:12:18,966 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:12:19,474 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:12:19,503 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:12:19,508 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:12:19,534 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:13:00,759 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:13:00,777 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:13:58,034 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:13:58,073 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:14:05,897 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:14:05,901 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:14:13,857 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:14:13,883 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:16:30,854 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:16:30,861 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:16:31,196 [45] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:16:31,245 [45] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:16:31,254 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:16:31,284 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:18:54,540 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:18:54,550 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:18:54,831 [45] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:18:54,885 [45] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:18:54,894 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:18:54,904 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:25:30,157 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:25:30,169 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:25:30,415 [44] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:25:30,429 [44] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:25:30,454 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:25:30,464 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:26:04,929 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:26:04,941 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:26:05,296 [45] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:26:05,322 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:26:05,365 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:26:05,368 [45] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:29:27,577 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:29:27,609 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:29:27,951 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:29:27,980 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:29:28,006 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:29:28,009 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:33:41,037 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:33:41,041 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:33:43,523 [10] WARN  Microsoft.AspNetCore.Server.Kestrel - Heartbeat took longer than "00:00:01" at "01/06/2020 07:33:43 +00:00".
+2020-01-06 15:33:43,734 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:33:43,742 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:33:43,792 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:33:43,821 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:34:20,308 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:34:20,333 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:34:20,635 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:34:20,661 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:34:20,686 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:34:20,690 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:38:28,664 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:38:28,675 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:38:28,915 [45] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:38:28,919 [45] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:38:28,970 [44] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:38:28,979 [44] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:43:01,185 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:43:01,204 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:43:01,503 [45] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:43:01,557 [45] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:43:01,584 [6] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:43:01,592 [6] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:44:59,170 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:44:59,176 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:44:59,464 [44] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:44:59,498 [44] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:44:59,527 [45] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:44:59,531 [45] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:54:36,658 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:54:36,669 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:54:36,947 [7] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:54:36,951 [7] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:54:37,034 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:54:37,046 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:54:48,275 [Worker #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '295': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:22.
+Castle.MicroKernel.Handlers.HandlerException: Can't create component 'Frame.Domain.Sms.SmsWorker' as it has dependencies to be satisfied.
+
+'Frame.Domain.Sms.SmsWorker' is waiting for the following dependencies:
+- Service 'Frame.BackgroundWorker.IBackgroudWorkerProxy' which was not registered.
+
+   at Castle.MicroKernel.Handlers.DefaultHandler.AssertNotWaitingForDependency()
+   at Castle.MicroKernel.Handlers.DefaultHandler.ResolveCore(CreationContext context, Boolean requiresDecommission, Boolean instanceRequired, Burden& burden)
+   at Castle.MicroKernel.Handlers.DefaultHandler.Resolve(CreationContext context, Boolean instanceRequired)
+   at Castle.MicroKernel.DefaultKernel.ResolveComponent(IHandler handler, Type service, Arguments additionalArguments, IReleasePolicy policy, Boolean ignoreParentContext)
+   at Castle.MicroKernel.DefaultKernel.Castle.MicroKernel.IKernelInternal.Resolve(Type service, Arguments arguments, IReleasePolicy policy, Boolean ignoreParentContext)
+   at Castle.MicroKernel.DefaultKernel.Resolve(Type service, Arguments arguments)
+   at Castle.Windsor.MsDependencyInjection.ScopedWindsorServiceProvider.GetServiceInternal(Type serviceType, Boolean isOptional) in D:\Github\castle-windsor-ms-adapter\src\Castle.Windsor.MsDependencyInjection\ScopedWindsorServiceProvider.cs:line 55
+   at Hangfire.AspNetCore.AspNetCoreJobActivatorScope.Resolve(Type type)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2020-01-06 15:58:02,160 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:58:02,172 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:58:02,493 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:58:02,516 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:58:02,539 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:58:02,542 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:58:16,485 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:58:16,510 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:58:20,212 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:58:20,237 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:58:49,297 [DelayedJobScheduler #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '295': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:18.
+System.TypeLoadException: Could not load type 'Frame.Domain.Sms.SmsWorker' from assembly 'Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.RuntimeAssembly.GetType(RuntimeAssembly assembly, String name, Boolean throwOnError, Boolean ignoreCase, ObjectHandleOnStack type, ObjectHandleOnStack keepAlive)
+   at System.Reflection.RuntimeAssembly.GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.TypeNameParser.ResolveType(Assembly assembly, String[] names, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.ConstructType(Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError)
+   at Hangfire.Common.TypeHelper.DefaultTypeResolver(String typeName)
+   at Hangfire.Storage.InvocationData.DeserializeJob()
+2020-01-06 15:58:51,978 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:58:51,989 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:58:52,247 [42] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:58:52,254 [42] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:58:52,289 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 15:58:52,325 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 15:59:41,063 [43] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '295': an exception occurred. Retry attempt 3 of 10 will be performed in 00:00:40.
+System.TypeLoadException: Could not load type 'Frame.Domain.Sms.SmsWorker' from assembly 'Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.RuntimeAssembly.GetType(RuntimeAssembly assembly, String name, Boolean throwOnError, Boolean ignoreCase, ObjectHandleOnStack type, ObjectHandleOnStack keepAlive)
+   at System.Reflection.RuntimeAssembly.GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.TypeNameParser.ResolveType(Assembly assembly, String[] names, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.ConstructType(Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError)
+   at Hangfire.Common.TypeHelper.DefaultTypeResolver(String typeName)
+   at Hangfire.Storage.InvocationData.DeserializeJob()
+2020-01-06 16:00:05,211 [DelayedJobScheduler #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '295': an exception occurred. Retry attempt 4 of 10 will be performed in 00:02:32.
+System.TypeLoadException: Could not load type 'Frame.Domain.Sms.SmsWorker' from assembly 'Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.RuntimeAssembly.GetType(RuntimeAssembly assembly, String name, Boolean throwOnError, Boolean ignoreCase, ObjectHandleOnStack type, ObjectHandleOnStack keepAlive)
+   at System.Reflection.RuntimeAssembly.GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.TypeNameParser.ResolveType(Assembly assembly, String[] names, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.ConstructType(Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError)
+   at Hangfire.Common.TypeHelper.DefaultTypeResolver(String typeName)
+   at Hangfire.Storage.InvocationData.DeserializeJob()
+2020-01-06 16:02:18,860 [DelayedJobScheduler #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '295': an exception occurred. Retry attempt 5 of 10 will be performed in 00:04:41.
+System.TypeLoadException: Could not load type 'Frame.Domain.Sms.SmsWorker' from assembly 'Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.RuntimeAssembly.GetType(RuntimeAssembly assembly, String name, Boolean throwOnError, Boolean ignoreCase, ObjectHandleOnStack type, ObjectHandleOnStack keepAlive)
+   at System.Reflection.RuntimeAssembly.GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.TypeNameParser.ResolveType(Assembly assembly, String[] names, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.ConstructType(Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError)
+   at Hangfire.Common.TypeHelper.DefaultTypeResolver(String typeName)
+   at Hangfire.Storage.InvocationData.DeserializeJob()
+2020-01-06 16:02:21,906 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 16:02:21,933 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 16:02:22,191 [44] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 16:02:22,204 [44] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 16:02:22,224 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 16:02:22,232 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 16:02:44,791 [47] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 16:02:44,795 [47] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2020-01-06 16:02:48,645 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2020-01-06 16:02:48,653 [5] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.

@@ -1,0 +1,379 @@
+2020-01-06 14:56:30,002 [1] DEBUG Abp.Modules.AbpModuleManager - Loading Abp modules...
+2020-01-06 14:56:30,371 [1] DEBUG Abp.Modules.AbpModuleManager - Found 12 ABP modules in total.
+2020-01-06 14:56:30,408 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Mvc.FrameMvcModel, Frame.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 14:56:30,412 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Application.FrameApplicationModel, Frame.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 14:56:30,413 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 14:56:30,415 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 14:56:30,416 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 14:56:30,417 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.EntityFrameworkCore.FrameEFCoreModel, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 14:56:30,418 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 14:56:30,419 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 14:56:30,420 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Common.FrameCommonModel, Frame.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 14:56:30,421 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Domain.FrameDomainModel, Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 14:56:30,422 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.BackgroundWorker.FrameBackgroundWorkerModel, Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 14:56:30,423 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 14:56:30,426 [1] DEBUG Abp.Modules.AbpModuleManager - 12 modules loaded.
+2020-01-06 14:56:30,723 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 14:56:30,789 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapManageDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 14:56:30,864 [1] DEBUG Abp.Localization.LocalizationManager - Initializing 2 localization sources.
+2020-01-06 14:56:30,926 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: Abp
+2020-01-06 14:56:30,953 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: AbpWeb
+2020-01-06 14:56:31,330 [1] DEBUG Abp.BackgroundJobs.BackgroundJobManager - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+2020-01-06 15:12:14,476 [1] DEBUG Abp.Modules.AbpModuleManager - Loading Abp modules...
+2020-01-06 15:12:14,553 [1] DEBUG Abp.Modules.AbpModuleManager - Found 12 ABP modules in total.
+2020-01-06 15:12:14,569 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Mvc.FrameMvcModel, Frame.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:12:14,573 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Application.FrameApplicationModel, Frame.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:12:14,574 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:12:14,575 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:12:14,576 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:12:14,577 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.EntityFrameworkCore.FrameEFCoreModel, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:12:14,579 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:12:14,581 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:12:14,583 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Common.FrameCommonModel, Frame.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:12:14,585 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Domain.FrameDomainModel, Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:12:14,586 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.BackgroundWorker.FrameBackgroundWorkerModel, Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:12:14,587 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:12:14,589 [1] DEBUG Abp.Modules.AbpModuleManager - 12 modules loaded.
+2020-01-06 15:12:14,924 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:12:14,953 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapManageDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:12:15,063 [1] DEBUG Abp.Localization.LocalizationManager - Initializing 2 localization sources.
+2020-01-06 15:12:15,113 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: Abp
+2020-01-06 15:12:15,144 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: AbpWeb
+2020-01-06 15:12:15,388 [1] DEBUG Abp.BackgroundJobs.BackgroundJobManager - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+2020-01-06 15:15:58,807 [1] DEBUG Abp.Modules.AbpModuleManager - Loading Abp modules...
+2020-01-06 15:15:58,858 [1] DEBUG Abp.Modules.AbpModuleManager - Found 12 ABP modules in total.
+2020-01-06 15:15:58,875 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Mvc.FrameMvcModel, Frame.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:15:58,879 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Application.FrameApplicationModel, Frame.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:15:58,880 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:15:58,881 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:15:58,882 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:15:58,883 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.EntityFrameworkCore.FrameEFCoreModel, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:15:58,884 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:15:58,885 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:15:58,886 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Common.FrameCommonModel, Frame.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:15:58,887 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Domain.FrameDomainModel, Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:15:58,888 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.BackgroundWorker.FrameBackgroundWorkerModel, Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:15:58,889 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:15:58,892 [1] DEBUG Abp.Modules.AbpModuleManager - 12 modules loaded.
+2020-01-06 15:16:27,216 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:16:27,236 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapManageDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:16:27,309 [1] DEBUG Abp.Localization.LocalizationManager - Initializing 2 localization sources.
+2020-01-06 15:16:27,357 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: Abp
+2020-01-06 15:16:27,384 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: AbpWeb
+2020-01-06 15:16:27,691 [1] DEBUG Abp.Hangfire.HangfireBackgroundJobManager - Start background worker: Abp.Hangfire.HangfireBackgroundJobManager
+2020-01-06 15:18:44,123 [1] DEBUG Abp.Modules.AbpModuleManager - Loading Abp modules...
+2020-01-06 15:18:44,175 [1] DEBUG Abp.Modules.AbpModuleManager - Found 12 ABP modules in total.
+2020-01-06 15:18:44,199 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Mvc.FrameMvcModel, Frame.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:18:44,217 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Application.FrameApplicationModel, Frame.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:18:44,218 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:18:44,220 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:18:44,221 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:18:44,222 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.EntityFrameworkCore.FrameEFCoreModel, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:18:44,223 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:18:44,224 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:18:44,225 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Common.FrameCommonModel, Frame.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:18:44,226 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Domain.FrameDomainModel, Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:18:44,227 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.BackgroundWorker.FrameBackgroundWorkerModel, Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:18:44,228 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:18:44,231 [1] DEBUG Abp.Modules.AbpModuleManager - 12 modules loaded.
+2020-01-06 15:18:48,617 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:18:48,639 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapManageDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:18:48,713 [1] DEBUG Abp.Localization.LocalizationManager - Initializing 2 localization sources.
+2020-01-06 15:18:48,763 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: Abp
+2020-01-06 15:18:48,792 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: AbpWeb
+2020-01-06 15:18:49,072 [1] DEBUG Abp.Hangfire.HangfireBackgroundJobManager - Start background worker: Abp.Hangfire.HangfireBackgroundJobManager
+2020-01-06 15:25:16,467 [1] DEBUG Abp.Modules.AbpModuleManager - Loading Abp modules...
+2020-01-06 15:25:16,523 [1] DEBUG Abp.Modules.AbpModuleManager - Found 12 ABP modules in total.
+2020-01-06 15:25:16,539 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Mvc.FrameMvcModel, Frame.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:16,543 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Application.FrameApplicationModel, Frame.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:16,544 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:16,545 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:16,546 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:16,547 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.EntityFrameworkCore.FrameEFCoreModel, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:16,548 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:16,549 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:16,551 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Common.FrameCommonModel, Frame.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:16,552 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Domain.FrameDomainModel, Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:16,553 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.BackgroundWorker.FrameBackgroundWorkerModel, Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:16,554 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:16,557 [1] DEBUG Abp.Modules.AbpModuleManager - 12 modules loaded.
+2020-01-06 15:25:24,331 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:24,352 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapManageDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:24,432 [1] DEBUG Abp.Localization.LocalizationManager - Initializing 2 localization sources.
+2020-01-06 15:25:24,481 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: Abp
+2020-01-06 15:25:24,508 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: AbpWeb
+2020-01-06 15:25:24,725 [1] DEBUG Abp.Hangfire.HangfireBackgroundJobManager - Start background worker: Abp.Hangfire.HangfireBackgroundJobManager
+2020-01-06 15:25:57,441 [1] DEBUG Abp.Modules.AbpModuleManager - Loading Abp modules...
+2020-01-06 15:25:57,513 [1] DEBUG Abp.Modules.AbpModuleManager - Found 12 ABP modules in total.
+2020-01-06 15:25:57,530 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Mvc.FrameMvcModel, Frame.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:57,533 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Application.FrameApplicationModel, Frame.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:57,535 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:57,536 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:57,537 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:57,538 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.EntityFrameworkCore.FrameEFCoreModel, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:57,539 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:57,540 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:57,541 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Common.FrameCommonModel, Frame.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:57,541 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Domain.FrameDomainModel, Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:57,542 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.BackgroundWorker.FrameBackgroundWorkerModel, Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:57,543 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:57,546 [1] DEBUG Abp.Modules.AbpModuleManager - 12 modules loaded.
+2020-01-06 15:25:59,959 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:25:59,981 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapManageDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:26:00,057 [1] DEBUG Abp.Localization.LocalizationManager - Initializing 2 localization sources.
+2020-01-06 15:26:00,105 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: Abp
+2020-01-06 15:26:00,176 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: AbpWeb
+2020-01-06 15:26:00,388 [1] DEBUG Abp.Hangfire.HangfireBackgroundJobManager - Start background worker: Abp.Hangfire.HangfireBackgroundJobManager
+2020-01-06 15:29:21,293 [1] DEBUG Abp.Modules.AbpModuleManager - Loading Abp modules...
+2020-01-06 15:29:21,343 [1] DEBUG Abp.Modules.AbpModuleManager - Found 12 ABP modules in total.
+2020-01-06 15:29:21,364 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Mvc.FrameMvcModel, Frame.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:29:21,367 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Application.FrameApplicationModel, Frame.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:29:21,368 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:29:21,369 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:29:21,369 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:29:21,370 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.EntityFrameworkCore.FrameEFCoreModel, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:29:21,371 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:29:21,372 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:29:21,372 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Common.FrameCommonModel, Frame.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:29:21,373 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Domain.FrameDomainModel, Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:29:21,374 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.BackgroundWorker.FrameBackgroundWorkerModel, Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:29:21,375 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:29:21,378 [1] DEBUG Abp.Modules.AbpModuleManager - 12 modules loaded.
+2020-01-06 15:29:21,716 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:29:21,742 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapManageDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:29:21,825 [1] DEBUG Abp.Localization.LocalizationManager - Initializing 2 localization sources.
+2020-01-06 15:29:21,877 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: Abp
+2020-01-06 15:29:21,906 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: AbpWeb
+2020-01-06 15:29:22,140 [1] DEBUG Abp.BackgroundJobs.BackgroundJobManager - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+2020-01-06 15:30:42,834 [1] DEBUG Abp.Modules.AbpModuleManager - Loading Abp modules...
+2020-01-06 15:30:42,926 [1] DEBUG Abp.Modules.AbpModuleManager - Found 12 ABP modules in total.
+2020-01-06 15:30:42,949 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Mvc.FrameMvcModel, Frame.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:30:42,952 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Application.FrameApplicationModel, Frame.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:30:42,953 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:30:42,954 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:30:42,954 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:30:42,955 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.EntityFrameworkCore.FrameEFCoreModel, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:30:42,956 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:30:42,956 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:30:42,957 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Common.FrameCommonModel, Frame.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:30:42,958 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Domain.FrameDomainModel, Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:30:42,959 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.BackgroundWorker.FrameBackgroundWorkerModel, Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:30:42,959 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:30:42,962 [1] DEBUG Abp.Modules.AbpModuleManager - 12 modules loaded.
+2020-01-06 15:30:43,264 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:30:43,291 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapManageDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:30:43,391 [1] DEBUG Abp.Localization.LocalizationManager - Initializing 2 localization sources.
+2020-01-06 15:30:43,439 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: Abp
+2020-01-06 15:30:43,468 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: AbpWeb
+2020-01-06 15:30:43,695 [1] DEBUG Abp.BackgroundJobs.BackgroundJobManager - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+2020-01-06 15:32:05,674 [1] DEBUG Abp.Modules.AbpModuleManager - Loading Abp modules...
+2020-01-06 15:32:05,723 [1] DEBUG Abp.Modules.AbpModuleManager - Found 12 ABP modules in total.
+2020-01-06 15:32:05,738 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Mvc.FrameMvcModel, Frame.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:32:05,741 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Application.FrameApplicationModel, Frame.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:32:05,742 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:32:05,743 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:32:05,744 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:32:05,745 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.EntityFrameworkCore.FrameEFCoreModel, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:32:05,747 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:32:05,747 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:32:05,748 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Common.FrameCommonModel, Frame.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:32:05,749 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Domain.FrameDomainModel, Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:32:05,750 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.BackgroundWorker.FrameBackgroundWorkerModel, Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:32:05,750 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:32:05,753 [1] DEBUG Abp.Modules.AbpModuleManager - 12 modules loaded.
+2020-01-06 15:32:14,365 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:32:14,396 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapManageDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:32:14,471 [1] DEBUG Abp.Localization.LocalizationManager - Initializing 2 localization sources.
+2020-01-06 15:32:14,535 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: Abp
+2020-01-06 15:32:14,563 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: AbpWeb
+2020-01-06 15:32:14,781 [1] DEBUG Abp.BackgroundJobs.BackgroundJobManager - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+2020-01-06 15:33:22,354 [1] DEBUG Abp.Modules.AbpModuleManager - Loading Abp modules...
+2020-01-06 15:33:22,444 [1] DEBUG Abp.Modules.AbpModuleManager - Found 12 ABP modules in total.
+2020-01-06 15:33:22,465 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Mvc.FrameMvcModel, Frame.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:33:22,469 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Application.FrameApplicationModel, Frame.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:33:22,469 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:33:22,470 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:33:22,471 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:33:22,472 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.EntityFrameworkCore.FrameEFCoreModel, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:33:22,473 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:33:22,473 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:33:22,474 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Common.FrameCommonModel, Frame.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:33:22,475 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Domain.FrameDomainModel, Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:33:22,476 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.BackgroundWorker.FrameBackgroundWorkerModel, Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:33:22,477 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:33:22,480 [1] DEBUG Abp.Modules.AbpModuleManager - 12 modules loaded.
+2020-01-06 15:33:26,889 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:33:26,916 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapManageDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:33:26,985 [1] DEBUG Abp.Localization.LocalizationManager - Initializing 2 localization sources.
+2020-01-06 15:33:27,032 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: Abp
+2020-01-06 15:33:27,059 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: AbpWeb
+2020-01-06 15:33:27,295 [1] DEBUG Abp.BackgroundJobs.BackgroundJobManager - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+2020-01-06 15:33:31,067 [1] DEBUG Frame.Domain.Sms.SmsWorker - 轮询任务启动
+2020-01-06 15:34:13,975 [1] DEBUG Abp.Modules.AbpModuleManager - Loading Abp modules...
+2020-01-06 15:34:14,055 [1] DEBUG Abp.Modules.AbpModuleManager - Found 12 ABP modules in total.
+2020-01-06 15:34:14,075 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Mvc.FrameMvcModel, Frame.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:34:14,079 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Application.FrameApplicationModel, Frame.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:34:14,079 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:34:14,080 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:34:14,081 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:34:14,082 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.EntityFrameworkCore.FrameEFCoreModel, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:34:14,083 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:34:14,083 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:34:14,084 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Common.FrameCommonModel, Frame.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:34:14,085 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Domain.FrameDomainModel, Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:34:14,086 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.BackgroundWorker.FrameBackgroundWorkerModel, Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:34:14,086 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:34:14,089 [1] DEBUG Abp.Modules.AbpModuleManager - 12 modules loaded.
+2020-01-06 15:34:16,905 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:34:16,931 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapManageDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:34:17,030 [1] DEBUG Abp.Localization.LocalizationManager - Initializing 2 localization sources.
+2020-01-06 15:34:17,076 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: Abp
+2020-01-06 15:34:17,104 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: AbpWeb
+2020-01-06 15:34:17,319 [1] DEBUG Abp.BackgroundJobs.BackgroundJobManager - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+2020-01-06 15:38:21,898 [1] DEBUG Abp.Modules.AbpModuleManager - Loading Abp modules...
+2020-01-06 15:38:21,949 [1] DEBUG Abp.Modules.AbpModuleManager - Found 12 ABP modules in total.
+2020-01-06 15:38:21,966 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Mvc.FrameMvcModel, Frame.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:38:21,970 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Application.FrameApplicationModel, Frame.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:38:21,971 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:38:21,972 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:38:21,974 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:38:21,975 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.EntityFrameworkCore.FrameEFCoreModel, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:38:21,976 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:38:21,977 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:38:21,978 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Common.FrameCommonModel, Frame.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:38:21,979 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Domain.FrameDomainModel, Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:38:21,980 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.BackgroundWorker.FrameBackgroundWorkerModel, Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:38:21,981 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:38:21,984 [1] DEBUG Abp.Modules.AbpModuleManager - 12 modules loaded.
+2020-01-06 15:38:25,126 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:38:25,146 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapManageDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:38:25,224 [1] DEBUG Abp.Localization.LocalizationManager - Initializing 2 localization sources.
+2020-01-06 15:38:25,335 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: Abp
+2020-01-06 15:38:25,361 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: AbpWeb
+2020-01-06 15:38:25,582 [1] DEBUG Abp.Hangfire.HangfireBackgroundJobManager - Start background worker: Abp.Hangfire.HangfireBackgroundJobManager
+2020-01-06 15:42:54,457 [1] DEBUG Abp.Modules.AbpModuleManager - Loading Abp modules...
+2020-01-06 15:42:54,550 [1] DEBUG Abp.Modules.AbpModuleManager - Found 12 ABP modules in total.
+2020-01-06 15:42:54,567 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Mvc.FrameMvcModel, Frame.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:42:54,571 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Application.FrameApplicationModel, Frame.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:42:54,572 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:42:54,572 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:42:54,573 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:42:54,574 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.EntityFrameworkCore.FrameEFCoreModel, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:42:54,575 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:42:54,576 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:42:54,577 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Common.FrameCommonModel, Frame.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:42:54,578 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Domain.FrameDomainModel, Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:42:54,579 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.BackgroundWorker.FrameBackgroundWorkerModel, Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:42:54,580 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:42:54,583 [1] DEBUG Abp.Modules.AbpModuleManager - 12 modules loaded.
+2020-01-06 15:42:57,548 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:42:57,570 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapManageDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:42:57,700 [1] DEBUG Abp.Localization.LocalizationManager - Initializing 2 localization sources.
+2020-01-06 15:42:57,751 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: Abp
+2020-01-06 15:42:57,781 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: AbpWeb
+2020-01-06 15:42:58,031 [1] DEBUG Abp.BackgroundJobs.BackgroundJobManager - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+2020-01-06 15:44:53,108 [1] DEBUG Abp.Modules.AbpModuleManager - Loading Abp modules...
+2020-01-06 15:44:53,189 [1] DEBUG Abp.Modules.AbpModuleManager - Found 12 ABP modules in total.
+2020-01-06 15:44:53,206 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Mvc.FrameMvcModel, Frame.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:44:53,210 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Application.FrameApplicationModel, Frame.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:44:53,211 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:44:53,212 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:44:53,213 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:44:53,214 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.EntityFrameworkCore.FrameEFCoreModel, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:44:53,215 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:44:53,216 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:44:53,217 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Common.FrameCommonModel, Frame.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:44:53,218 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Domain.FrameDomainModel, Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:44:53,219 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.BackgroundWorker.FrameBackgroundWorkerModel, Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:44:53,220 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:44:53,223 [1] DEBUG Abp.Modules.AbpModuleManager - 12 modules loaded.
+2020-01-06 15:44:55,530 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:44:55,576 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapManageDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:44:55,682 [1] DEBUG Abp.Localization.LocalizationManager - Initializing 2 localization sources.
+2020-01-06 15:44:55,732 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: Abp
+2020-01-06 15:44:55,761 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: AbpWeb
+2020-01-06 15:44:55,960 [1] DEBUG Abp.Hangfire.HangfireBackgroundJobManager - Start background worker: Abp.Hangfire.HangfireBackgroundJobManager
+2020-01-06 15:54:29,833 [1] DEBUG Abp.Modules.AbpModuleManager - Loading Abp modules...
+2020-01-06 15:54:29,930 [1] DEBUG Abp.Modules.AbpModuleManager - Found 12 ABP modules in total.
+2020-01-06 15:54:29,949 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Mvc.FrameMvcModel, Frame.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:54:29,954 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Application.FrameApplicationModel, Frame.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:54:29,955 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:54:29,955 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:54:29,956 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:54:29,957 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.EntityFrameworkCore.FrameEFCoreModel, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:54:29,959 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:54:29,960 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:54:29,961 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Common.FrameCommonModel, Frame.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:54:29,962 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Domain.FrameDomainModel, Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:54:29,963 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.BackgroundWorker.FrameBackgroundWorkerModel, Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:54:29,964 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:54:29,966 [1] DEBUG Abp.Modules.AbpModuleManager - 12 modules loaded.
+2020-01-06 15:54:33,137 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:54:33,158 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapManageDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:54:33,237 [1] DEBUG Abp.Localization.LocalizationManager - Initializing 2 localization sources.
+2020-01-06 15:54:33,284 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: Abp
+2020-01-06 15:54:33,327 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: AbpWeb
+2020-01-06 15:54:33,581 [1] DEBUG Abp.BackgroundJobs.BackgroundJobManager - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+2020-01-06 15:57:58,051 [1] DEBUG Abp.Modules.AbpModuleManager - Loading Abp modules...
+2020-01-06 15:57:58,130 [1] DEBUG Abp.Modules.AbpModuleManager - Found 12 ABP modules in total.
+2020-01-06 15:57:58,152 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Mvc.FrameMvcModel, Frame.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:57:58,156 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Application.FrameApplicationModel, Frame.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:57:58,158 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:57:58,158 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:57:58,159 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:57:58,161 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.EntityFrameworkCore.FrameEFCoreModel, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:57:58,162 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:57:58,163 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:57:58,163 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Common.FrameCommonModel, Frame.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:57:58,164 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Domain.FrameDomainModel, Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:57:58,165 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.BackgroundWorker.FrameBackgroundWorkerModel, Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:57:58,165 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:57:58,167 [1] DEBUG Abp.Modules.AbpModuleManager - 12 modules loaded.
+2020-01-06 15:57:58,506 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:57:58,545 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapManageDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:57:58,646 [1] DEBUG Abp.Localization.LocalizationManager - Initializing 2 localization sources.
+2020-01-06 15:57:58,699 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: Abp
+2020-01-06 15:57:58,730 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: AbpWeb
+2020-01-06 15:57:58,951 [1] DEBUG Abp.BackgroundJobs.BackgroundJobManager - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+2020-01-06 15:58:47,645 [1] DEBUG Abp.Modules.AbpModuleManager - Loading Abp modules...
+2020-01-06 15:58:47,698 [1] DEBUG Abp.Modules.AbpModuleManager - Found 12 ABP modules in total.
+2020-01-06 15:58:47,714 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Mvc.FrameMvcModel, Frame.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:58:47,718 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Application.FrameApplicationModel, Frame.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:58:47,719 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:58:47,722 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:58:47,724 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:58:47,726 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.EntityFrameworkCore.FrameEFCoreModel, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:58:47,727 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:58:47,728 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:58:47,729 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Common.FrameCommonModel, Frame.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:58:47,730 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Domain.FrameDomainModel, Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:58:47,732 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.BackgroundWorker.FrameBackgroundWorkerModel, Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:58:47,734 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:58:47,738 [1] DEBUG Abp.Modules.AbpModuleManager - 12 modules loaded.
+2020-01-06 15:58:48,461 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:58:48,498 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapManageDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 15:58:48,588 [1] DEBUG Abp.Localization.LocalizationManager - Initializing 2 localization sources.
+2020-01-06 15:58:48,640 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: Abp
+2020-01-06 15:58:48,670 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: AbpWeb
+2020-01-06 15:58:49,162 [1] DEBUG Abp.Hangfire.HangfireBackgroundJobManager - Start background worker: Abp.Hangfire.HangfireBackgroundJobManager
+2020-01-06 16:02:17,688 [1] DEBUG Abp.Modules.AbpModuleManager - Loading Abp modules...
+2020-01-06 16:02:17,836 [1] DEBUG Abp.Modules.AbpModuleManager - Found 12 ABP modules in total.
+2020-01-06 16:02:17,853 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Mvc.FrameMvcModel, Frame.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 16:02:17,856 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Application.FrameApplicationModel, Frame.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 16:02:17,858 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 16:02:17,859 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 16:02:17,859 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.AbpKernelModule, Abp, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 16:02:17,860 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.EntityFrameworkCore.FrameEFCoreModel, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 16:02:17,862 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 16:02:17,863 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 16:02:17,864 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Common.FrameCommonModel, Frame.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 16:02:17,864 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.Domain.FrameDomainModel, Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 16:02:17,865 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Frame.BackgroundWorker.FrameBackgroundWorkerModel, Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 16:02:17,866 [1] DEBUG Abp.Modules.AbpModuleManager - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 16:02:17,869 [1] DEBUG Abp.Modules.AbpModuleManager - 12 modules loaded.
+2020-01-06 16:02:18,585 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 16:02:18,613 [1] DEBUG Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Frame.EntityFrameworkCore.MySql.NapManageDbContext, Frame.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-01-06 16:02:18,782 [1] DEBUG Abp.Localization.LocalizationManager - Initializing 2 localization sources.
+2020-01-06 16:02:18,846 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: Abp
+2020-01-06 16:02:18,883 [1] DEBUG Abp.Localization.LocalizationManager - Initialized localization source: AbpWeb
+2020-01-06 16:02:19,095 [1] DEBUG Abp.Hangfire.HangfireBackgroundJobManager - Start background worker: Abp.Hangfire.HangfireBackgroundJobManager

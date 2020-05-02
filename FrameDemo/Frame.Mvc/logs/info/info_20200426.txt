@@ -1,0 +1,138 @@
+2020-04-26 12:24:19,328 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger  
+2020-04-26 12:24:20,203 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 934.8185ms 301 
+2020-04-26 12:24:20,241 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-04-26 12:24:20,295 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 52.9733ms 200 text/html
+2020-04-26 12:24:20,336 [16] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/profiler/includes.min.js?v=4.0.138+gcc91adf599  
+2020-04-26 12:24:20,348 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/swagger-ui.css  
+2020-04-26 12:24:20,371 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/swagger-ui-standalone-preset.js  
+2020-04-26 12:24:20,481 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/swagger-ui-bundle.js  
+2020-04-26 12:24:20,770 [15] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2020-04-26 12:24:20,842 [10] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2020-04-26 12:24:20,844 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 466.1687ms 200 text/css
+2020-04-26 12:24:20,876 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 509.8555ms 200 application/javascript
+2020-04-26 12:24:20,953 [9] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2020-04-26 12:24:20,980 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 617.8304ms 200 application/javascript
+2020-04-26 12:24:21,089 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 780.4869ms 200 application/javascript
+2020-04-26 12:24:21,186 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v2/swagger.json  
+2020-04-26 12:24:21,243 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/profiler/includes.min.css?v=4.0.138+gcc91adf599  
+2020-04-26 12:24:21,354 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/favicon-32x32.png  
+2020-04-26 12:24:21,330 [16] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-04-26 12:24:21,697 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 415.8963ms 200 text/css
+2020-04-26 12:24:21,737 [15] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2020-04-26 12:24:21,765 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 492.7302ms 200 image/png
+2020-04-26 12:24:21,770 [16] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 12:24:21,891 [16] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 644.8778ms 404 text/plain
+2020-04-26 12:24:22,201 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1014.1782ms 200 application/json;charset=utf-8
+2020-04-26 12:24:29,204 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2020-04-26 12:24:29,225 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 40.0216ms 200 application/json;charset=utf-8
+2020-04-26 12:24:30,564 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v2/swagger.json  
+2020-04-26 12:24:30,643 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 60.4484ms 200 application/json;charset=utf-8
+2020-04-26 16:58:09,425 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-04-26 16:58:09,848 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 428.1179ms 200 text/html
+2020-04-26 16:58:10,119 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v2/swagger.json  
+2020-04-26 16:58:10,175 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-04-26 16:58:10,420 [15] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 16:58:10,516 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 363.6717ms 404 text/plain
+2020-04-26 16:58:10,686 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 586.4332ms 200 application/json;charset=utf-8
+2020-04-26 17:02:12,186 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2020-04-26 17:02:12,246 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 60.4998ms 200 application/json;charset=utf-8
+2020-04-26 17:02:25,013 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/api/v1/Test/Login?userName=admin&pwd=qwer1234  0
+2020-04-26 17:02:25,076 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 17:02:25,293 [10] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "Login", controller = "Test"}. Executing action Frame.Application.TestAppService.Login (Frame.Application)
+2020-04-26 17:02:26,428 [10] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Application.TestAppService.Login (Frame.Application) with arguments (admin, qwer1234) - Validation state: Valid
+2020-04-26 17:02:29,141 [10] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2020-04-26 17:02:29,174 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 45
+2020-04-26 17:02:29,184 [10] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.Login (Frame.Application) in 3870.9955ms
+2020-04-26 17:02:29,217 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 17:02:29,230 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 55.655ms 404 text/plain
+2020-04-26 17:02:29,260 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4249.0994ms 500 application/json; charset=utf-8
+2020-04-26 17:02:50,527 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/api/v1/Test/Login?userName=admin&pwd=qwer1234  0
+2020-04-26 17:02:50,574 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 17:02:50,604 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "Login", controller = "Test"}. Executing action Frame.Application.TestAppService.Login (Frame.Application)
+2020-04-26 17:02:50,643 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Application.TestAppService.Login (Frame.Application) with arguments (admin, qwer1234) - Validation state: Valid
+2020-04-26 17:02:51,755 [9] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2020-04-26 17:02:51,783 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.Login (Frame.Application) in 1152.3118ms
+2020-04-26 17:02:51,786 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 45
+2020-04-26 17:02:51,793 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1265.8614ms 500 application/json; charset=utf-8
+2020-04-26 17:02:51,818 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 17:02:51,893 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 114.1198ms 200 application/json
+2020-04-26 17:02:57,001 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/api/v1/Test/Login?userName=admin&pwd=qwer1234  0
+2020-04-26 17:02:57,083 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 17:02:57,091 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "Login", controller = "Test"}. Executing action Frame.Application.TestAppService.Login (Frame.Application)
+2020-04-26 17:02:57,139 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Application.TestAppService.Login (Frame.Application) with arguments (admin, qwer1234) - Validation state: Valid
+2020-04-26 17:02:58,115 [9] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2020-04-26 17:02:58,124 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.Login (Frame.Application) in 1024.7995ms
+2020-04-26 17:02:58,129 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 45
+2020-04-26 17:02:58,134 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1132.8309ms 500 application/json; charset=utf-8
+2020-04-26 17:02:58,195 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 17:02:58,201 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 75.827ms 200 application/json
+2020-04-26 17:03:31,734 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/api/v1/Test/Login?userName=admin&pwd=qwer1234  0
+2020-04-26 17:03:31,774 [15] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 17:03:31,802 [15] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "Login", controller = "Test"}. Executing action Frame.Application.TestAppService.Login (Frame.Application)
+2020-04-26 17:03:31,834 [15] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Application.TestAppService.Login (Frame.Application) with arguments (admin, qwer1234) - Validation state: Valid
+2020-04-26 17:03:32,827 [15] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2020-04-26 17:03:32,834 [15] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.Login (Frame.Application) in 1024.0985ms
+2020-04-26 17:03:32,859 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 45
+2020-04-26 17:03:32,865 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1128.4759ms 500 application/json; charset=utf-8
+2020-04-26 17:03:32,909 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 17:03:32,915 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 78.4925ms 200 application/json
+2020-04-26 17:03:56,706 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/api/v1/Test/Login?userName=admin&pwd=qwer1234  0
+2020-04-26 17:03:56,762 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 17:03:56,788 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "Login", controller = "Test"}. Executing action Frame.Application.TestAppService.Login (Frame.Application)
+2020-04-26 17:03:56,841 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Application.TestAppService.Login (Frame.Application) with arguments (admin, qwer1234) - Validation state: Valid
+2020-04-26 17:04:48,741 [9] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2020-04-26 17:04:48,747 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.Login (Frame.Application) in 51952.8993ms
+2020-04-26 17:04:48,769 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 45
+2020-04-26 17:04:48,775 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 52070.2659ms 500 application/json; charset=utf-8
+2020-04-26 17:04:48,830 [15] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 17:04:48,857 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 85.2846ms 200 application/json
+2020-04-26 17:07:30,920 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-04-26 17:07:31,410 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 499.6795ms 200 text/html
+2020-04-26 17:07:31,540 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v2/swagger.json  
+2020-04-26 17:07:31,605 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-04-26 17:07:31,814 [11] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 17:07:31,913 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 316.6347ms 404 text/plain
+2020-04-26 17:07:32,097 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 536.6261ms 200 application/json;charset=utf-8
+2020-04-26 17:25:00,566 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-04-26 17:25:01,041 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 533.6067ms 200 text/html
+2020-04-26 17:25:01,209 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v2/swagger.json  
+2020-04-26 17:25:01,262 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-04-26 17:25:01,448 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 17:25:01,567 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 289.7144ms 404 text/plain
+2020-04-26 17:25:01,710 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 523.8739ms 200 application/json;charset=utf-8
+2020-04-26 17:44:11,741 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-04-26 17:44:12,208 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 481.7793ms 200 text/html
+2020-04-26 17:44:12,341 [17] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v2/swagger.json  
+2020-04-26 17:44:12,376 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-04-26 17:44:12,621 [8] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 17:44:12,749 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 357.5418ms 404 text/plain
+2020-04-26 17:44:12,920 [17] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 574.2945ms 200 application/json;charset=utf-8
+2020-04-26 17:47:46,748 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-04-26 17:47:47,201 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 489.3809ms 200 text/html
+2020-04-26 17:47:47,351 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v2/swagger.json  
+2020-04-26 17:47:47,416 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-04-26 17:47:47,596 [8] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 17:47:47,710 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 284.0241ms 404 text/plain
+2020-04-26 17:47:47,896 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 521.843ms 200 application/json;charset=utf-8
+2020-04-26 17:49:59,360 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-04-26 17:49:59,811 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 461.9769ms 200 text/html
+2020-04-26 17:49:59,932 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v2/swagger.json  
+2020-04-26 17:49:59,999 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-04-26 17:50:00,195 [8] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 17:50:00,312 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 335.762ms 404 text/plain
+2020-04-26 17:50:00,485 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 532.3384ms 200 application/json;charset=utf-8
+2020-04-26 17:55:05,254 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-04-26 17:55:05,682 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 456.3013ms 200 text/html
+2020-04-26 17:55:05,823 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v2/swagger.json  
+2020-04-26 17:55:05,892 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-04-26 17:55:06,050 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 17:55:06,214 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 343.7142ms 404 text/plain
+2020-04-26 17:55:06,368 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 545.517ms 200 application/json;charset=utf-8
+2020-04-26 18:07:19,639 [12] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-04-26 18:07:20,086 [12] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 467.1344ms 200 text/html
+2020-04-26 18:07:20,219 [17] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v2/swagger.json  
+2020-04-26 18:07:20,278 [12] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-04-26 18:07:20,472 [12] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-26 18:07:20,591 [12] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 318.735ms 404 text/plain
+2020-04-26 18:07:20,821 [17] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 594.2183ms 200 application/json;charset=utf-8
+2020-04-26 18:20:18,357 [1] INFO  Microsoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 2.2.4-servicing-10062 initialized 'NapManageDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None

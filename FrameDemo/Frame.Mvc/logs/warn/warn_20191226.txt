@@ -1,0 +1,691 @@
+2019-12-26 09:53:16,270 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 09:53:16,302 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 09:53:16,645 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 09:53:16,667 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 09:53:16,985 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 09:53:17,014 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 09:53:17,037 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 09:53:17,068 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 09:53:17,591 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 09:53:17,596 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 09:53:26,814 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 09:53:26,820 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 09:53:28,839 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 09:53:28,846 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 09:54:44,171 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 09:54:44,185 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:00:36,312 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:00:36,343 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:00:36,760 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:00:36,765 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:01:00,978 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:01:00,982 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:01:03,494 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:01:03,499 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:04:59,763 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:04:59,774 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:05:00,071 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:05:00,095 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:42:47,799 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:42:47,828 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:42:48,133 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:42:48,158 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:44:23,700 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:44:23,713 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:44:24,114 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:44:24,145 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:46:22,313 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:46:22,328 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:46:22,631 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:46:22,657 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:48:44,966 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:48:44,997 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:48:45,259 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:48:45,264 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:51:58,556 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:51:58,584 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:51:58,861 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:51:58,887 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:52:27,022 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:52:27,062 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:52:27,333 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:52:27,355 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:56:41,733 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:56:41,762 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:56:42,030 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:56:42,035 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:58:14,258 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:58:14,287 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:58:14,555 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:58:14,559 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:59:47,050 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:59:47,060 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 10:59:47,333 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 10:59:47,342 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 11:09:09,067 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 11:09:09,078 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 11:09:09,379 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 11:09:09,403 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 11:09:33,781 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 11:09:33,786 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 11:10:12,625 [21] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 11:10:12,636 [21] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 11:10:20,620 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 11:10:20,651 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 11:10:25,281 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 11:10:25,306 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 11:11:41,119 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 11:11:41,136 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 11:22:24,763 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 11:22:24,834 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 11:22:25,112 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 11:22:25,135 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 11:22:56,937 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 11:22:56,968 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 11:24:53,588 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 11:24:53,599 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 11:24:53,865 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 11:24:53,873 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 11:24:57,182 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 11:24:57,187 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 11:25:17,166 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 11:25:17,185 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 11:25:17,938 [9] WARN  Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+2019-12-26 11:29:20,302 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 11:29:20,327 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 11:29:20,679 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 11:29:20,703 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 11:29:25,895 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 11:29:25,921 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:34:38,781 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:34:38,813 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:34:39,086 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:34:39,090 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:34:44,323 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:34:44,348 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:41:42,999 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:41:43,021 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:41:43,261 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:41:43,267 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:42:10,305 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:42:10,315 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:42:15,032 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:42:15,056 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:42:16,810 [18] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:42:16,816 [18] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:43:14,799 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:43:14,832 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:43:15,121 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:43:15,135 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:43:17,697 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:43:17,702 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:45:36,507 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:45:36,536 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:45:36,932 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:45:36,952 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:45:40,935 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:45:40,938 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:49:24,727 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:49:24,743 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:49:24,997 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:49:25,002 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:49:27,311 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:49:27,315 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:49:42,319 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:49:42,326 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:49:42,819 [8] WARN  Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+2019-12-26 13:49:52,931 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:49:52,956 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:49:53,152 [9] WARN  Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+2019-12-26 13:50:19,955 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:50:19,985 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:50:20,506 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:50:20,511 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:50:24,634 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:50:24,640 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:50:31,685 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:50:31,690 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:50:32,181 [9] WARN  Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+2019-12-26 13:51:58,862 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:51:58,892 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:51:59,159 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:51:59,163 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:52:02,011 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:52:02,017 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:52:32,481 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:52:32,506 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:52:43,831 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:52:43,856 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:52:47,409 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:52:47,414 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:53:10,097 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:53:10,128 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:53:10,390 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:53:10,397 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:53:13,895 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:53:13,921 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:53:29,069 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:53:29,086 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:53:43,084 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:53:43,094 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:53:51,334 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:53:51,360 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:54:01,816 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 13:54:01,841 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 13:54:02,072 [9] WARN  Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+2019-12-26 14:04:34,156 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:04:34,167 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:04:34,448 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:04:34,472 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:04:40,263 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:04:40,268 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:04:45,716 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:04:45,743 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:04:50,353 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:04:50,379 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:04:52,381 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:04:52,387 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:04:54,793 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:04:54,817 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:06:26,829 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:06:26,839 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:06:27,109 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:06:27,134 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:06:30,251 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:06:30,275 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:08:19,704 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:08:19,734 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:08:20,007 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:08:20,011 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:08:22,720 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:08:22,748 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:08:25,656 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:08:25,680 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:08:27,475 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:08:27,500 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:11:23,459 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:11:23,494 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:11:23,793 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:11:23,801 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:12:37,144 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:12:37,159 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:12:37,436 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:12:37,442 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:13:09,090 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:13:09,126 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:13:09,392 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:13:09,399 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:13:56,652 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:13:56,681 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:13:56,950 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:13:56,974 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:15:30,595 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:15:30,617 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:15:31,149 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:15:31,162 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:15:34,845 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:15:34,852 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:16:28,733 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:16:28,771 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:16:29,028 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:16:29,033 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:16:33,140 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:16:33,149 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:16:56,039 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:16:56,055 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:16:56,439 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:16:56,464 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:17:56,446 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:17:56,478 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:19:11,635 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:19:11,666 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:19:11,923 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:19:11,930 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:19:47,894 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:19:47,923 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:19:48,220 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:19:48,251 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:20:38,136 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:20:38,150 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:20:38,568 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:20:38,593 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:21:29,235 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:21:29,282 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:21:29,558 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:21:29,585 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:22:06,445 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:22:06,473 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:22:06,751 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:22:06,781 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:22:34,366 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:22:34,375 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:22:34,676 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:22:34,712 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:23:52,479 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:23:52,509 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:23:52,895 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:23:52,901 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:29:21,558 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:29:21,571 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:29:21,863 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:29:21,887 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:29:55,955 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:29:55,972 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:29:56,294 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:29:56,322 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:31:15,465 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:31:15,476 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:31:15,764 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:31:15,776 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:32:13,212 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:32:13,262 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:32:13,524 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:32:13,529 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:35:15,708 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:35:15,718 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:35:15,998 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:35:16,004 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:35:51,289 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:35:51,300 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:35:51,622 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:35:51,627 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:41:34,534 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:41:34,569 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:41:34,983 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:41:35,010 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:42:40,328 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:42:40,358 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:42:40,658 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:42:40,687 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:43:12,343 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:43:12,356 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:43:28,520 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:43:28,526 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:43:29,010 [8] WARN  Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+2019-12-26 14:43:46,281 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:43:46,298 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:44:07,653 [18] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:44:07,679 [18] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:44:24,820 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:44:24,846 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:46:02,498 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:46:02,530 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:46:02,813 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:46:02,821 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:46:46,179 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:46:46,233 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:47:33,787 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:47:33,798 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:47:34,057 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:47:34,067 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:50:07,078 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:50:07,121 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:50:07,491 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:50:07,496 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:50:11,985 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:50:11,990 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:50:59,902 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:50:59,932 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:51:00,208 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:51:00,212 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 14:51:05,924 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 14:51:05,930 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:03,888 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:03,939 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:04,215 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:04,238 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:09,924 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:09,953 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:18,068 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:18,093 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:30,148 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:30,173 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:36,682 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:36,706 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:40,843 [18] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:40,848 [18] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:47,201 [18] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:47,225 [18] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:47,468 [18] WARN  Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+2019-12-26 15:12:53,964 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:53,969 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:54,188 [15] WARN  Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+2019-12-26 15:12:58,713 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 15:12:58,738 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:03:56,649 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:03:56,660 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:03:57,002 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:03:57,025 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:04:00,893 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:04:00,897 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:04:07,493 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:04:07,518 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:04:15,701 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:04:15,726 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:04:15,952 [15] WARN  Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+2019-12-26 16:04:24,740 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:04:24,766 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:27:08,116 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:27:08,127 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:27:08,407 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:27:08,421 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:27:14,659 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:27:14,685 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:27:29,967 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:27:29,983 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:27:30,166 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:27:30,169 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:27:40,709 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:27:40,734 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:30:01,480 [9] WARN  Abp.Auditing.SimpleLogAuditingStore - AUDIT LOG: Frame.Application.TestAppService.AddDesignStyle is executed by user 1 in 140577 ms from ::1 IP address with exception: An error occurred while updating the entries. See the inner exception for details..
+2019-12-26 16:30:09,634 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:30:09,642 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:33:47,754 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:33:47,765 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:33:48,124 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:33:48,134 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:33:51,095 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:33:51,119 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:33:54,480 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:33:54,505 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:33:55,921 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:33:55,926 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:34:03,037 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:34:03,062 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 16:34:15,600 [18] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 16:34:15,606 [18] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 18:47:30,934 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 18:47:30,948 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 18:47:31,775 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 18:47:31,780 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 18:48:56,821 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 18:48:56,839 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 18:48:57,382 [10] WARN  Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__15.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__18.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 107
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__16.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp\Authorization\AuthorizationHelper.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.<OnAuthorizationAsync>d__8.MoveNext() in C:\work\Test\FrameDemo\ABP\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+2019-12-26 18:49:01,476 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 18:49:01,481 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 18:50:09,648 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 18:50:09,678 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 18:50:09,935 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 18:50:09,939 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 18:53:47,045 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 18:53:47,080 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 18:53:47,378 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 18:53:47,395 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 18:57:26,759 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 18:57:26,797 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 18:57:27,073 [13] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 18:57:27,083 [13] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 19:00:33,444 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 19:00:33,464 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-26 19:00:33,755 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-26 19:00:33,785 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.

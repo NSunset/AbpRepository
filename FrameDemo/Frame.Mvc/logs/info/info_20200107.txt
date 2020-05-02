@@ -1,0 +1,16 @@
+2020-01-07 17:09:58,715 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-01-07 17:09:59,607 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 973.8946ms 200 text/html
+2020-01-07 17:10:00,180 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V2/swagger.json  
+2020-01-07 17:10:00,248 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-01-07 17:10:00,627 [11] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-07 17:10:00,897 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 653.407ms 404 text/plain
+2020-01-07 17:10:01,042 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 883.2664ms 200 application/json;charset=utf-8
+2020-01-07 17:13:57,048 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/signalr-myChantHub  
+2020-01-07 17:13:57,186 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 137.8394ms 400 text/plain
+2020-01-07 17:39:14,641 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-01-07 17:39:15,075 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 436.2202ms 200 text/html
+2020-01-07 17:39:15,181 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V2/swagger.json  
+2020-01-07 17:39:15,219 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-01-07 17:39:15,404 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-07 17:39:15,469 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 254.4774ms 404 text/plain
+2020-01-07 17:39:15,675 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 471.2375ms 200 application/json;charset=utf-8

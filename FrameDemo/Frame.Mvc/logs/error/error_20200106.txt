@@ -1,0 +1,13 @@
+2020-01-06 15:58:49,138 [RecurringJobScheduler #1] ERROR Hangfire.Server.RecurringJobScheduler - Recurring job 'smsWorker' can't be scheduled due to an error.
+Hangfire.Common.JobLoadException: Could not load the job. See inner exception for the details. ---> System.TypeLoadException: Could not load type 'Frame.Domain.Sms.SmsWorker' from assembly 'Frame.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.RuntimeAssembly.GetType(RuntimeAssembly assembly, String name, Boolean throwOnError, Boolean ignoreCase, ObjectHandleOnStack type, ObjectHandleOnStack keepAlive)
+   at System.Reflection.RuntimeAssembly.GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.TypeNameParser.ResolveType(Assembly assembly, String[] names, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.ConstructType(Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError)
+   at Hangfire.Common.TypeHelper.DefaultTypeResolver(String typeName)
+   at Hangfire.Storage.InvocationData.DeserializeJob()
+   --- End of inner exception stack trace ---
+   at Hangfire.Storage.InvocationData.DeserializeJob()
+   at Hangfire.RecurringJobEntity..ctor(String recurringJobId, IDictionary`2 recurringJob, ITimeZoneResolver timeZoneResolver, DateTime now)

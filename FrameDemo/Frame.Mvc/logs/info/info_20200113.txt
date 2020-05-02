@@ -1,0 +1,135 @@
+2020-01-13 16:55:31,369 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger  
+2020-01-13 16:55:32,291 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 993.7165ms 301 
+2020-01-13 16:55:32,335 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-01-13 16:55:32,422 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 85.8846ms 200 text/html
+2020-01-13 16:55:32,534 [17] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/swagger-ui-standalone-preset.js  
+2020-01-13 16:55:32,558 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/profiler/includes.min.js?v=4.0.138+gcc91adf599  
+2020-01-13 16:55:32,599 [16] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/swagger-ui-bundle.js  
+2020-01-13 16:55:32,601 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/swagger-ui.css  
+2020-01-13 16:55:32,810 [18] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2020-01-13 16:55:32,845 [17] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2020-01-13 16:55:32,856 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 347.9895ms 200 text/css
+2020-01-13 16:55:32,888 [17] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 361.0386ms 200 application/javascript
+2020-01-13 16:55:32,936 [18] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2020-01-13 16:55:32,942 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 510.5648ms 200 application/javascript
+2020-01-13 16:55:33,125 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 676.2129ms 200 application/javascript
+2020-01-13 16:55:33,175 [16] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V2/swagger.json  
+2020-01-13 16:55:33,246 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/profiler/includes.min.css?v=4.0.138+gcc91adf599  
+2020-01-13 16:55:33,281 [17] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/favicon-32x32.png  
+2020-01-13 16:55:33,292 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-01-13 16:55:33,405 [17] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2020-01-13 16:55:33,434 [17] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 230.9942ms 200 image/png
+2020-01-13 16:55:33,456 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 279.7793ms 200 text/css
+2020-01-13 16:55:33,484 [11] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-13 16:55:33,621 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 416.6311ms 404 text/plain
+2020-01-13 16:55:52,641 [16] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 19472.4244ms 200 application/json;charset=utf-8
+2020-01-13 16:56:05,333 [17] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V1/swagger.json  
+2020-01-13 16:56:14,558 [17] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 9234.5244ms 200 application/json;charset=utf-8
+2020-01-13 16:56:25,740 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/api/V1/Test/Login?userName=admin&pwd=qwer1234  0
+2020-01-13 16:56:25,765 [11] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-13 16:56:26,063 [11] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "Login", controller = "Test"}. Executing action Frame.Application.TestAppService.Login (Frame.Application)
+2020-01-13 16:56:27,001 [11] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Application.TestAppService.Login (Frame.Application) with arguments (admin, qwer1234) - Validation state: Valid
+2020-01-13 16:56:28,020 [11] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action method Frame.Application.TestAppService.Login (Frame.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1011.1996ms.
+2020-01-13 16:56:28,110 [11] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2020-01-13 16:56:28,143 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 45
+2020-01-13 16:56:28,219 [11] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.Login (Frame.Application) in 2074.2006ms
+2020-01-13 16:56:28,225 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-13 16:56:28,275 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 108.0557ms 404 text/plain
+2020-01-13 16:56:28,285 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2542.3511ms 200 application/json; charset=utf-8
+2020-01-13 16:56:43,677 [17] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/V1/Upload/Test  
+2020-01-13 16:56:43,827 [17] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+2020-01-13 16:56:43,843 [17] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Test", controller = "Upload", area = ""}. Executing action Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc)
+2020-01-13 16:56:44,593 [17] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc) - Validation state: Valid
+2020-01-13 16:56:44,599 [17] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action method Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc), returned result Microsoft.AspNetCore.Mvc.JsonResult in 1.8481ms.
+2020-01-13 16:56:44,603 [17] INFO  Abp.Auditing.SimpleLogAuditingStore - AUDIT LOG: Frame.Mvc.Controllers.UploadController.Test is executed by user 1 in 56 ms from ::1 IP address with succeed.
+2020-01-13 16:56:44,621 [17] INFO  Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor - Executing JsonResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2020-01-13 16:56:44,630 [17] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc) in 781.5875ms
+2020-01-13 16:56:44,634 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 45
+2020-01-13 16:56:44,713 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-13 16:56:44,717 [17] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 996.2552ms 200 application/json; charset=utf-8
+2020-01-13 16:56:44,751 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 117.1067ms 200 application/json
+2020-01-13 16:56:55,883 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/V1/Upload/Test  
+2020-01-13 16:56:55,923 [10] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+2020-01-13 16:56:55,949 [10] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Test", controller = "Upload", area = ""}. Executing action Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc)
+2020-01-13 16:56:55,982 [10] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc) - Validation state: Valid
+2020-01-13 16:56:56,007 [10] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action method Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.2235ms.
+2020-01-13 16:56:56,008 [10] INFO  Abp.Auditing.SimpleLogAuditingStore - AUDIT LOG: Frame.Mvc.Controllers.UploadController.Test is executed by user 1 in 54 ms from ::1 IP address with succeed.
+2020-01-13 16:56:56,013 [10] INFO  Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor - Executing JsonResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2020-01-13 16:56:56,020 [10] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc) in 64.2184ms
+2020-01-13 16:56:56,024 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 45
+2020-01-13 16:56:56,050 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 144.3704ms 200 application/json; charset=utf-8
+2020-01-13 16:56:56,111 [11] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-13 16:56:56,118 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 94.4044ms 200 application/json
+2020-01-13 17:01:42,812 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-01-13 17:01:43,257 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 462.6811ms 200 text/html
+2020-01-13 17:01:43,521 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V2/swagger.json  
+2020-01-13 17:01:43,569 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-01-13 17:01:43,727 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-13 17:01:43,821 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 266.6759ms 404 text/plain
+2020-01-13 17:01:43,996 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 454.3007ms 200 application/json;charset=utf-8
+2020-01-13 17:01:56,727 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V1/swagger.json  
+2020-01-13 17:01:56,772 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 44.9778ms 200 application/json;charset=utf-8
+2020-01-13 17:02:05,759 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/api/V1/Test/Login?userName=admin&pwd=qwer1234  0
+2020-01-13 17:02:05,816 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-13 17:02:05,987 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "Login", controller = "Test"}. Executing action Frame.Application.TestAppService.Login (Frame.Application)
+2020-01-13 17:02:06,722 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Application.TestAppService.Login (Frame.Application) with arguments (admin, qwer1234) - Validation state: Valid
+2020-01-13 17:02:07,134 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action method Frame.Application.TestAppService.Login (Frame.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 404.5258ms.
+2020-01-13 17:02:07,227 [9] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2020-01-13 17:02:07,259 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 45
+2020-01-13 17:02:07,287 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.Login (Frame.Application) in 1264.1726ms
+2020-01-13 17:02:07,319 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-13 17:02:07,350 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 69.8396ms 404 text/plain
+2020-01-13 17:02:07,370 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1594.2671ms 200 application/json; charset=utf-8
+2020-01-13 17:02:16,661 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/V1/Upload/Test  
+2020-01-13 17:02:16,749 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Test", controller = "Upload", area = ""}. Executing action Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc)
+2020-01-13 17:02:17,239 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Authorization failed for the request at filter 'Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter'.
+2020-01-13 17:02:17,248 [9] INFO  Microsoft.AspNetCore.Mvc.ChallengeResult - Executing ChallengeResult with authentication schemes ().
+2020-01-13 17:02:17,286 [9] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler - AuthenticationScheme: JwtBearerTokenFrame was challenged.
+2020-01-13 17:02:17,311 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc) in 537.6998ms
+2020-01-13 17:02:17,319 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 655.726ms 401 
+2020-01-13 17:02:17,346 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 45
+2020-01-13 17:02:17,380 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-13 17:02:17,431 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 82.0735ms 200 application/json
+2020-01-13 17:02:20,287 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/V1/Upload/Test  
+2020-01-13 17:02:20,345 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Test", controller = "Upload", area = ""}. Executing action Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc)
+2020-01-13 17:02:20,551 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Authorization failed for the request at filter 'Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter'.
+2020-01-13 17:02:20,576 [9] INFO  Microsoft.AspNetCore.Mvc.ChallengeResult - Executing ChallengeResult with authentication schemes ().
+2020-01-13 17:02:20,580 [9] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler - AuthenticationScheme: JwtBearerTokenFrame was challenged.
+2020-01-13 17:02:20,606 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc) in 235.08ms
+2020-01-13 17:02:20,610 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 346.9889ms 401 
+2020-01-13 17:02:20,623 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 45
+2020-01-13 17:02:20,642 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-13 17:02:20,667 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 28.5935ms 200 application/json
+2020-01-13 17:02:26,828 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/V1/Upload/Test  
+2020-01-13 17:02:26,934 [9] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+2020-01-13 17:02:26,962 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Test", controller = "Upload", area = ""}. Executing action Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc)
+2020-01-13 17:02:27,486 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc) - Validation state: Valid
+2020-01-13 17:02:27,495 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action method Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc), returned result Microsoft.AspNetCore.Mvc.JsonResult in 2.0482ms.
+2020-01-13 17:02:27,499 [9] INFO  Abp.Auditing.SimpleLogAuditingStore - AUDIT LOG: Frame.Mvc.Controllers.UploadController.Test is executed by user 1 in 41 ms from ::1 IP address with succeed.
+2020-01-13 17:02:27,541 [9] INFO  Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor - Executing JsonResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2020-01-13 17:02:27,569 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc) in 581.2102ms
+2020-01-13 17:02:27,572 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 45
+2020-01-13 17:02:27,621 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 752.0571ms 200 application/json; charset=utf-8
+2020-01-13 17:02:27,718 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-13 17:02:27,725 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 171.5151ms 200 application/json
+2020-01-13 17:02:28,447 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/V1/Upload/Test  
+2020-01-13 17:02:28,502 [9] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+2020-01-13 17:02:28,529 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Test", controller = "Upload", area = ""}. Executing action Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc)
+2020-01-13 17:02:28,561 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc) - Validation state: Valid
+2020-01-13 17:02:28,585 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action method Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.2647ms.
+2020-01-13 17:02:28,586 [9] INFO  Abp.Auditing.SimpleLogAuditingStore - AUDIT LOG: Frame.Mvc.Controllers.UploadController.Test is executed by user 1 in 51 ms from ::1 IP address with succeed.
+2020-01-13 17:02:28,592 [9] INFO  Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor - Executing JsonResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2020-01-13 17:02:28,618 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Mvc.Controllers.UploadController.Test (Frame.Mvc) in 63.0378ms
+2020-01-13 17:02:28,641 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 45
+2020-01-13 17:02:28,666 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 197.8308ms 200 application/json; charset=utf-8
+2020-01-13 17:02:28,723 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-13 17:02:28,729 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 127.935ms 200 application/json
+2020-01-13 17:02:31,997 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/profiler/results?id=8007144b-fb50-403c-935b-ca55cc579999  
+2020-01-13 17:02:32,069 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 62.3702ms 200 text/html; charset=utf-8
+2020-01-13 17:02:32,095 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/profiler/includes.min.js?v=4.1.0+c940f0f28d  
+2020-01-13 17:02:32,170 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 73.3833ms 200 application/javascript
+2020-01-13 17:02:32,194 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/favicon.ico  
+2020-01-13 17:02:32,261 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/profiler/includes.min.css?v=4.1.0+c940f0f28d  
+2020-01-13 17:02:32,412 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 172.1632ms 200 text/css
+2020-01-13 17:02:32,443 [10] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon.ico'. Physical path: 'C:\work\Test\FrameDemo\Frame.Mvc\wwwroot\favicon.ico'
+2020-01-13 17:02:32,468 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 274.1602ms 200 image/x-icon

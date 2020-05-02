@@ -1,0 +1,231 @@
+2019-12-25 14:43:54,188 [4] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 14:43:54,501 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/swagger-ui-bundle.js  
+2019-12-25 14:43:54,516 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/swagger-ui-standalone-preset.js  
+2019-12-25 14:43:54,539 [4] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 371.78ms 200 text/html
+2019-12-25 14:43:54,687 [4] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/swagger-ui.css  
+2019-12-25 14:43:54,768 [14] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2019-12-25 14:43:54,783 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 87.6964ms 200 text/css
+2019-12-25 14:43:54,791 [4] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2019-12-25 14:43:54,798 [4] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 338.6365ms 200 application/javascript
+2019-12-25 14:43:54,849 [9] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2019-12-25 14:43:54,854 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 399.7099ms 200 application/javascript
+2019-12-25 14:43:55,024 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 14:43:55,731 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 724.9872ms 200 application/json;charset=utf-8
+2019-12-25 14:45:57,184 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 14:45:57,383 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 228.7266ms 200 text/html
+2019-12-25 14:45:57,653 [17] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 14:45:58,032 [17] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 398.0167ms 200 application/json;charset=utf-8
+2019-12-25 14:48:26,833 [1] INFO  Abp.Logging.LogHelper - 配置文静路径:C:\work\Test\FrameDemo\Frame.Mvc
+2019-12-25 14:48:28,664 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 14:48:28,832 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 200.5723ms 200 text/html
+2019-12-25 14:48:28,978 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 14:48:29,377 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 399.0996ms 200 application/json;charset=utf-8
+2019-12-25 17:20:02,170 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 17:20:03,040 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 878.5166ms 200 text/html
+2019-12-25 17:20:03,173 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 17:20:03,613 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 460.1042ms 200 application/json;charset=utf-8
+2019-12-25 17:30:30,063 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 17:30:30,290 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 243.4571ms 200 text/html
+2019-12-25 17:30:30,393 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 17:30:30,778 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 384.1525ms 200 application/json;charset=utf-8
+2019-12-25 17:31:07,001 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/api/test/login?userName=admin&pwd=qwer1234  0
+2019-12-25 17:31:07,347 [14] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2019-12-25 17:31:07,536 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "Login", controller = "Test"}. Executing action Frame.Application.TestAppService.Login (Frame.Application)
+2019-12-25 17:31:07,910 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Application.TestAppService.Login (Frame.Application) with arguments (admin, qwer1234) - Validation state: Valid
+2019-12-25 17:31:08,168 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action method Frame.Application.TestAppService.Login (Frame.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 249.5061ms.
+2019-12-25 17:31:08,231 [14] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2019-12-25 17:31:08,286 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.Login (Frame.Application) in 739.2051ms
+2019-12-25 17:31:08,312 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1291.6518ms 200 application/json; charset=utf-8
+2019-12-25 17:31:21,791 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/api/test/login?userName=admin&pwd=qwer1234  0
+2019-12-25 17:31:21,832 [14] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2019-12-25 17:31:21,841 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "Login", controller = "Test"}. Executing action Frame.Application.TestAppService.Login (Frame.Application)
+2019-12-25 17:31:21,889 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Application.TestAppService.Login (Frame.Application) with arguments (admin, qwer1234) - Validation state: Valid
+2019-12-25 17:31:49,601 [14] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2019-12-25 17:31:49,622 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.Login (Frame.Application) in 27776.4117ms
+2019-12-25 17:31:49,626 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 27835.9374ms 500 application/json; charset=utf-8
+2019-12-25 17:32:00,837 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/api/test/login?userName=admin&pwd=qwer1234  0
+2019-12-25 17:32:00,858 [8] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2019-12-25 17:32:00,865 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "Login", controller = "Test"}. Executing action Frame.Application.TestAppService.Login (Frame.Application)
+2019-12-25 17:32:00,913 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Application.TestAppService.Login (Frame.Application) with arguments (admin, qwer1234) - Validation state: Valid
+2019-12-25 17:32:26,419 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action method Frame.Application.TestAppService.Login (Frame.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 25500.5871ms.
+2019-12-25 17:32:26,465 [8] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2019-12-25 17:32:26,500 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.Login (Frame.Application) in 25610.4928ms
+2019-12-25 17:32:26,508 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 25667.2631ms 200 application/json; charset=utf-8
+2019-12-25 17:32:48,856 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/services/app/Test/Get  
+2019-12-25 17:32:48,897 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "Get", controller = "Test"}. Executing action Frame.Application.TestAppService.Get (Frame.Application)
+2019-12-25 17:32:49,110 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Authorization failed for the request at filter 'Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter'.
+2019-12-25 17:32:49,135 [14] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2019-12-25 17:32:49,140 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.Get (Frame.Application) in 237.7346ms
+2019-12-25 17:32:49,167 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 289.1305ms 401 application/json; charset=utf-8
+2019-12-25 17:32:53,616 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/services/app/Test/Get  
+2019-12-25 17:32:53,632 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "Get", controller = "Test"}. Executing action Frame.Application.TestAppService.Get (Frame.Application)
+2019-12-25 17:32:53,811 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Authorization failed for the request at filter 'Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter'.
+2019-12-25 17:32:53,837 [14] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2019-12-25 17:32:53,862 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.Get (Frame.Application) in 204.8359ms
+2019-12-25 17:32:53,888 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 252.0989ms 401 application/json; charset=utf-8
+2019-12-25 17:33:00,356 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/services/app/Test/Get  
+2019-12-25 17:33:00,555 [15] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+2019-12-25 17:33:00,589 [15] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "Get", controller = "Test"}. Executing action Frame.Application.TestAppService.Get (Frame.Application)
+2019-12-25 17:33:00,628 [15] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Application.TestAppService.Get (Frame.Application) - Validation state: Valid
+2019-12-25 17:33:02,198 [15] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action method Frame.Application.TestAppService.Get (Frame.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1543.6843ms.
+2019-12-25 17:33:02,201 [15] INFO  Abp.Auditing.SimpleLogAuditingStore - AUDIT LOG: Frame.Application.TestAppService.Get is executed by user 1 in 1599 ms from ::1 IP address with succeed.
+2019-12-25 17:33:02,206 [15] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2019-12-25 17:33:02,233 [15] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.Get (Frame.Application) in 1617.3762ms
+2019-12-25 17:33:02,238 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1901.6052ms 200 application/json; charset=utf-8
+2019-12-25 17:37:39,846 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 17:37:40,059 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 229.1106ms 200 text/html
+2019-12-25 17:37:40,187 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 17:37:40,584 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 394.5127ms 200 application/json;charset=utf-8
+2019-12-25 17:38:21,024 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/api/test/login?userName=admin&pwd=qwer1234  0
+2019-12-25 17:38:21,193 [8] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2019-12-25 17:38:21,368 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "Login", controller = "Test"}. Executing action Frame.Application.TestAppService.Login (Frame.Application)
+2019-12-25 17:38:21,699 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Application.TestAppService.Login (Frame.Application) with arguments (admin, qwer1234) - Validation state: Valid
+2019-12-25 17:38:21,893 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action method Frame.Application.TestAppService.Login (Frame.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 185.3229ms.
+2019-12-25 17:38:21,945 [8] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2019-12-25 17:38:21,980 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.Login (Frame.Application) in 602.3548ms
+2019-12-25 17:38:22,006 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 963.2288ms 200 application/json; charset=utf-8
+2019-12-25 17:43:05,572 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 17:43:05,776 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 227.4898ms 200 text/html
+2019-12-25 17:43:05,892 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 17:43:06,279 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 386.0737ms 200 application/json;charset=utf-8
+2019-12-25 17:43:34,520 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 17:43:34,697 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 208.8929ms 200 text/html
+2019-12-25 17:43:34,840 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 17:43:35,270 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 430.1357ms 200 application/json;charset=utf-8
+2019-12-25 17:44:11,612 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 17:44:12,115 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 529.1626ms 404 
+2019-12-25 17:44:22,571 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 17:44:22,613 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 40.9107ms 404 
+2019-12-25 17:44:26,294 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 17:44:26,371 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 57.7309ms 404 
+2019-12-25 17:46:05,061 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index  
+2019-12-25 17:46:05,603 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 583.5064ms 404 
+2019-12-25 17:46:35,896 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index  
+2019-12-25 17:46:35,932 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 58.8081ms 404 
+2019-12-25 17:46:39,982 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 17:46:40,056 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 73.3382ms 200 text/html
+2019-12-25 17:46:40,167 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 17:46:40,377 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 189.6833ms 200 application/json;charset=utf-8
+2019-12-25 17:47:58,928 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index  
+2019-12-25 17:47:59,431 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 508.1123ms 404 
+2019-12-25 17:48:08,015 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/swagger  
+2019-12-25 17:48:08,031 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 17.3731ms 404 
+2019-12-25 17:48:12,463 [16] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger  
+2019-12-25 17:48:12,518 [16] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 35.7994ms 404 
+2019-12-25 17:48:18,132 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 17:48:18,165 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 56.1081ms 200 text/html
+2019-12-25 17:48:18,288 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 17:48:18,512 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 202.522ms 200 application/json;charset=utf-8
+2019-12-25 17:49:24,817 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index  
+2019-12-25 17:49:25,436 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 658.652ms 404 
+2019-12-25 17:49:56,899 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 17:49:57,089 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 198.5045ms 200 text/html
+2019-12-25 17:49:57,187 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 17:49:57,613 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 426.3122ms 200 application/json;charset=utf-8
+2019-12-25 17:50:16,315 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index  
+2019-12-25 17:50:16,873 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 574.3319ms 404 
+2019-12-25 17:51:20,644 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index  
+2019-12-25 17:51:21,162 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 548.1913ms 404 
+2019-12-25 17:51:32,629 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index  
+2019-12-25 17:51:32,644 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 38.5144ms 404 
+2019-12-25 17:51:34,848 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index  
+2019-12-25 17:51:34,882 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 52.36ms 404 
+2019-12-25 17:51:34,996 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index  
+2019-12-25 17:51:35,033 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 35.1029ms 404 
+2019-12-25 17:51:35,184 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index  
+2019-12-25 17:51:35,223 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 36.9069ms 404 
+2019-12-25 17:51:35,332 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index  
+2019-12-25 17:51:35,372 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 35.3084ms 404 
+2019-12-25 17:51:35,505 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index  
+2019-12-25 17:51:35,560 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 74.416ms 404 
+2019-12-25 17:51:35,681 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index  
+2019-12-25 17:51:35,737 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 73.6023ms 404 
+2019-12-25 17:51:43,529 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/home/index  
+2019-12-25 17:51:43,667 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action Frame.Mvc.Controllers.HomeController.Index (Frame.Mvc)
+2019-12-25 17:51:43,927 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Authorization failed for the request at filter 'Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter'.
+2019-12-25 17:51:43,962 [14] INFO  Microsoft.AspNetCore.Mvc.ChallengeResult - Executing ChallengeResult with authentication schemes ().
+2019-12-25 17:51:44,004 [14] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler - AuthenticationScheme: JwtBearerTokenFrame was challenged.
+2019-12-25 17:51:44,014 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Mvc.Controllers.HomeController.Index (Frame.Mvc) in 336.6612ms
+2019-12-25 17:51:44,021 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 490.9083ms 401 
+2019-12-25 17:52:50,226 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/  
+2019-12-25 17:52:50,783 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action Frame.Mvc.Controllers.HomeController.Index (Frame.Mvc)
+2019-12-25 17:52:51,035 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Authorization failed for the request at filter 'Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter'.
+2019-12-25 17:52:51,076 [8] INFO  Microsoft.AspNetCore.Mvc.ChallengeResult - Executing ChallengeResult with authentication schemes ().
+2019-12-25 17:52:51,096 [8] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler - AuthenticationScheme: JwtBearerTokenFrame was challenged.
+2019-12-25 17:52:51,105 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Mvc.Controllers.HomeController.Index (Frame.Mvc) in 310.734ms
+2019-12-25 17:52:51,171 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 955.0482ms 401 
+2019-12-25 17:52:59,903 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/home/index  
+2019-12-25 17:52:59,944 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action Frame.Mvc.Controllers.HomeController.Index (Frame.Mvc)
+2019-12-25 17:53:00,120 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Authorization failed for the request at filter 'Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter'.
+2019-12-25 17:53:00,145 [9] INFO  Microsoft.AspNetCore.Mvc.ChallengeResult - Executing ChallengeResult with authentication schemes ().
+2019-12-25 17:53:00,169 [9] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler - AuthenticationScheme: JwtBearerTokenFrame was challenged.
+2019-12-25 17:53:00,195 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Mvc.Controllers.HomeController.Index (Frame.Mvc) in 225.3847ms
+2019-12-25 17:53:00,227 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 299.869ms 401 
+2019-12-25 17:53:21,417 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/  
+2019-12-25 17:53:21,994 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action Frame.Mvc.Controllers.HomeController.Index (Frame.Mvc)
+2019-12-25 17:53:22,260 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Authorization failed for the request at filter 'Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter'.
+2019-12-25 17:53:22,296 [8] INFO  Microsoft.AspNetCore.Mvc.ChallengeResult - Executing ChallengeResult with authentication schemes ().
+2019-12-25 17:53:22,317 [8] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler - AuthenticationScheme: JwtBearerTokenFrame was challenged.
+2019-12-25 17:53:22,326 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Mvc.Controllers.HomeController.Index (Frame.Mvc) in 322.2912ms
+2019-12-25 17:53:22,364 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 977.0161ms 401 
+2019-12-25 17:53:58,342 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 17:53:58,536 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 206.0982ms 200 text/html
+2019-12-25 17:53:58,641 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 17:53:59,013 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 371.5481ms 200 application/json;charset=utf-8
+2019-12-25 17:54:23,877 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 17:54:24,096 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 224.7667ms 200 text/html
+2019-12-25 17:54:24,191 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 17:54:24,603 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 392.0596ms 200 application/json;charset=utf-8
+2019-12-25 18:12:14,722 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 18:12:14,906 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 205.786ms 200 text/html
+2019-12-25 18:12:15,049 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 18:23:28,736 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 18:23:28,905 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 194.3535ms 200 text/html
+2019-12-25 18:23:29,088 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 18:23:31,810 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2726.6849ms 200 application/json;charset=utf-8
+2019-12-25 18:23:38,234 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v2/swagger.json  
+2019-12-25 18:23:38,297 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 54.4444ms 200 application/json;charset=utf-8
+2019-12-25 18:23:39,801 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 18:23:39,863 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 40.6862ms 200 application/json;charset=utf-8
+2019-12-25 18:23:41,204 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v2/swagger.json  
+2019-12-25 18:23:41,238 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 62.347ms 200 application/json;charset=utf-8
+2019-12-25 18:26:59,811 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 18:26:59,995 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 195.772ms 200 text/html
+2019-12-25 18:27:00,116 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 18:27:00,484 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 388.2268ms 200 application/json;charset=utf-8
+2019-12-25 18:27:05,073 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v2/swagger.json  
+2019-12-25 18:27:05,151 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 62.3314ms 200 application/json;charset=utf-8
+2019-12-25 18:27:06,571 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 18:27:06,614 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 24.4035ms 200 application/json;charset=utf-8
+2019-12-25 18:27:12,701 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/api/v1/test/login?userName=11&pwd=11  0
+2019-12-25 18:27:12,839 [14] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2019-12-25 18:27:13,018 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "Login", controller = "Test"}. Executing action Frame.Application.TestAppService.Login (Frame.Application)
+2019-12-25 18:27:13,358 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Application.TestAppService.Login (Frame.Application) with arguments (11, 11) - Validation state: Valid
+2019-12-25 18:27:13,606 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action method Frame.Application.TestAppService.Login (Frame.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 239.6862ms.
+2019-12-25 18:27:13,652 [14] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2019-12-25 18:27:13,687 [14] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.Login (Frame.Application) in 657.564ms
+2019-12-25 18:27:13,692 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1015.7722ms 200 application/json; charset=utf-8
+2019-12-25 18:29:29,943 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/index.html  
+2019-12-25 18:29:30,138 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 224.0089ms 200 text/html
+2019-12-25 18:29:30,260 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 18:29:30,652 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 391.2682ms 200 application/json;charset=utf-8
+2019-12-25 18:29:34,639 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v2/swagger.json  
+2019-12-25 18:29:34,697 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 40.5747ms 200 application/json;charset=utf-8
+2019-12-25 18:29:36,249 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2019-12-25 18:29:36,296 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 26.3133ms 200 application/json;charset=utf-8
+2019-12-25 18:29:42,974 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/v2/test/TestV2Ha  
+2019-12-25 18:29:43,240 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "TestV2Ha", controller = "Test"}. Executing action Frame.Application.TestAppService.TestV2Ha (Frame.Application)
+2019-12-25 18:29:43,513 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Application.TestAppService.TestV2Ha (Frame.Application) - Validation state: Valid
+2019-12-25 18:29:43,525 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action method Frame.Application.TestAppService.TestV2Ha (Frame.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 4.1741ms.
+2019-12-25 18:29:43,572 [8] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2019-12-25 18:29:43,604 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.TestV2Ha (Frame.Application) in 354.4538ms
+2019-12-25 18:29:43,631 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 638.3147ms 200 application/json; charset=utf-8
+2019-12-25 18:29:50,356 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/api/v1/test/login?userName=11&pwd=11  0
+2019-12-25 18:29:50,381 [8] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2019-12-25 18:29:50,407 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "Login", controller = "Test"}. Executing action Frame.Application.TestAppService.Login (Frame.Application)
+2019-12-25 18:29:50,501 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Application.TestAppService.Login (Frame.Application) with arguments (11, 11) - Validation state: Valid
+2019-12-25 18:29:50,737 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action method Frame.Application.TestAppService.Login (Frame.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 230.521ms.
+2019-12-25 18:29:50,769 [8] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2019-12-25 18:29:50,776 [8] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.Login (Frame.Application) in 364.8058ms
+2019-12-25 18:29:50,801 [8] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 425.3781ms 200 application/json; charset=utf-8
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

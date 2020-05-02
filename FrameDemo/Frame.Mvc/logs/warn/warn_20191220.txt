@@ -1,0 +1,34 @@
+2019-12-20 16:37:41,423 [1] WARN  Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - No class found derived from AbpDbContext.
+2019-12-20 16:37:49,350 [15] WARN  Microsoft.AspNetCore.Server.Kestrel - Heartbeat took longer than "00:00:01" at "12/20/2019 08:37:49 +00:00".
+2019-12-20 16:37:49,959 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-20 16:37:49,991 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-20 16:38:01,632 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-20 16:38:01,657 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-20 16:38:01,856 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-20 16:38:01,868 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-20 16:38:01,876 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-20 16:38:01,912 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-20 16:38:01,932 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-20 16:38:01,936 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-20 16:38:02,278 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-20 16:38:02,303 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-20 16:38:02,515 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-20 16:38:02,519 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-20 16:38:18,138 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-20 16:38:18,173 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-20 16:38:42,314 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-20 16:38:42,350 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-20 16:44:28,670 [10] WARN  Microsoft.AspNetCore.Server.Kestrel - Heartbeat took longer than "00:00:01" at "12/20/2019 08:44:28 +00:00".
+2019-12-20 16:44:59,972 [1] WARN  Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - No class found derived from AbpDbContext.
+2019-12-20 16:46:17,196 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-20 16:46:17,207 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-20 16:46:17,658 [13] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-20 16:46:17,669 [13] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-20 16:46:35,328 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-20 16:46:35,341 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-20 16:47:12,610 [1] WARN  Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - No class found derived from AbpDbContext.
+2019-12-20 16:49:24,480 [1] WARN  Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule - No class found derived from AbpDbContext.
+2019-12-20 16:50:05,009 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-20 16:50:05,021 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-20 16:50:05,328 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-20 16:50:05,359 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.

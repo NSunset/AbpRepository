@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\release\netcoreapp2.0\Frame.Application.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ABP\Abp.AspNetCore\Abp.AspNetCore.csproj" />
+    <ProjectReference Include="..\Frame.Common\Frame.Common.csproj" />
+    <ProjectReference Include="..\Frame.Domain\Frame.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

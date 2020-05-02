@@ -1,0 +1,444 @@
+2020-01-09 15:59:03,398 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-01-09 15:59:04,538 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1215.6069ms 200 text/html
+2020-01-09 15:59:04,794 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V2/swagger.json  
+2020-01-09 15:59:04,821 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-01-09 15:59:05,312 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 15:59:05,412 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 616.7963ms 404 text/plain
+2020-01-09 15:59:05,643 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 877.3751ms 200 application/json;charset=utf-8
+2020-01-09 16:08:03,723 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-01-09 16:08:04,182 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 495.7946ms 200 text/html
+2020-01-09 16:08:04,338 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V2/swagger.json  
+2020-01-09 16:08:04,363 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-01-09 16:08:04,603 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 16:08:04,708 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 347.1401ms 404 text/plain
+2020-01-09 16:08:04,903 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 567.5079ms 200 application/json;charset=utf-8
+2020-01-09 16:33:41,574 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-01-09 16:33:41,954 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 418.2452ms 200 text/html
+2020-01-09 16:33:42,083 [16] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V2/swagger.json  
+2020-01-09 16:33:42,138 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-01-09 16:33:42,353 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 16:33:42,449 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 314.9198ms 404 text/plain
+2020-01-09 16:33:42,636 [16] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 531.448ms 200 application/json;charset=utf-8
+2020-01-09 17:01:05,582 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:01:05,606 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 49.2271ms 405 text/plain
+2020-01-09 17:07:21,969 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/signalr-myChatHub  
+2020-01-09 17:07:22,077 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 126.8611ms 400 text/plain
+2020-01-09 17:24:19,741 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:24:19,755 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 8.7725ms 405 text/plain
+2020-01-09 17:24:26,732 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:24:26,771 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 32.9566ms 405 text/plain
+2020-01-09 17:26:43,897 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-01-09 17:26:44,387 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 533.755ms 200 text/html
+2020-01-09 17:26:44,561 [16] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V2/swagger.json  
+2020-01-09 17:26:44,571 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-01-09 17:26:44,825 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 17:26:44,905 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 345.8288ms 404 text/plain
+2020-01-09 17:26:45,086 [16] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 560.8904ms 200 application/json;charset=utf-8
+2020-01-09 17:27:02,053 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:27:02,089 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 33.3418ms 405 text/plain
+2020-01-09 17:27:30,574 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:27:30,585 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 11.1197ms 405 text/plain
+2020-01-09 17:34:10,328 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/V2/Test/ServerV2  
+2020-01-09 17:34:10,441 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 17:34:10,648 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "TestV2Ha", controller = "Test"}. Executing action Frame.Application.TestAppService.TestV2Ha (Frame.Application)
+2020-01-09 17:34:11,518 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Application.TestAppService.TestV2Ha (Frame.Application) - Validation state: Valid
+2020-01-09 17:34:17,420 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action method Frame.Application.TestAppService.TestV2Ha (Frame.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 5890.1237ms.
+2020-01-09 17:34:17,462 [9] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2020-01-09 17:34:17,496 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.TestV2Ha (Frame.Application) in 6838.5397ms
+2020-01-09 17:34:17,542 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 7236.5057ms 200 application/json; charset=utf-8
+2020-01-09 17:34:40,498 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/V2/Test/ServerV2  
+2020-01-09 17:34:40,586 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 17:34:40,614 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "TestV2Ha", controller = "Test"}. Executing action Frame.Application.TestAppService.TestV2Ha (Frame.Application)
+2020-01-09 17:34:40,665 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Frame.Application.TestAppService.TestV2Ha (Frame.Application) - Validation state: Valid
+2020-01-09 17:34:43,347 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action method Frame.Application.TestAppService.TestV2Ha (Frame.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 2673.0709ms.
+2020-01-09 17:34:43,374 [9] INFO  Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+2020-01-09 17:34:43,398 [9] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Frame.Application.TestAppService.TestV2Ha (Frame.Application) in 2759.1845ms
+2020-01-09 17:34:43,431 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2946.8809ms 200 application/json; charset=utf-8
+2020-01-09 17:40:08,394 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:40:08,400 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 6.4835ms 405 text/plain
+2020-01-09 17:40:10,617 [29] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:40:10,638 [29] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 15.8236ms 405 text/plain
+2020-01-09 17:40:10,657 [29] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:40:10,666 [29] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 5.6253ms 405 text/plain
+2020-01-09 17:40:10,673 [29] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:40:10,684 [29] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 5.8657ms 405 text/plain
+2020-01-09 17:41:53,102 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-01-09 17:41:53,578 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 516.9269ms 200 text/html
+2020-01-09 17:41:53,699 [16] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V2/swagger.json  
+2020-01-09 17:41:53,735 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-01-09 17:41:53,922 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 17:41:54,017 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 272.6603ms 404 text/plain
+2020-01-09 17:41:54,238 [16] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 516.3824ms 200 application/json;charset=utf-8
+2020-01-09 17:42:04,011 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:42:04,046 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 33.9987ms 405 text/plain
+2020-01-09 17:42:04,057 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:42:04,066 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 8.1904ms 405 text/plain
+2020-01-09 17:42:04,074 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:42:04,082 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 6.3924ms 405 text/plain
+2020-01-09 17:42:04,109 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:42:04,114 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 24.8001ms 405 text/plain
+2020-01-09 17:52:13,079 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-01-09 17:52:13,477 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 431.4572ms 200 text/html
+2020-01-09 17:52:13,684 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V2/swagger.json  
+2020-01-09 17:52:13,746 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-01-09 17:52:13,926 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 17:52:14,015 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 252.3308ms 404 text/plain
+2020-01-09 17:52:14,153 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 473.9126ms 200 application/json;charset=utf-8
+2020-01-09 17:52:31,656 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:52:31,693 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 35.3475ms 405 text/plain
+2020-01-09 17:52:32,675 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:52:32,687 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 9.0573ms 405 text/plain
+2020-01-09 17:52:33,590 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:52:33,603 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 36.7885ms 405 text/plain
+2020-01-09 17:52:34,536 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:52:34,543 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 5.1446ms 405 text/plain
+2020-01-09 17:57:03,904 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-01-09 17:57:04,325 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 451.3972ms 200 text/html
+2020-01-09 17:57:04,448 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V2/swagger.json  
+2020-01-09 17:57:04,490 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-01-09 17:57:04,670 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 17:57:04,774 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 270.6757ms 404 text/plain
+2020-01-09 17:57:04,970 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 498.8188ms 200 application/json;charset=utf-8
+2020-01-09 17:57:12,225 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:57:12,269 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 17:57:12,279 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 63.9011ms 204 
+2020-01-09 17:57:13,116 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:57:13,178 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 17:57:13,188 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 87.9591ms 204 
+2020-01-09 17:57:13,822 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:57:13,872 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 17:57:13,899 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 58.5762ms 204 
+2020-01-09 17:57:14,500 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:57:14,580 [15] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 17:57:14,592 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 106.1474ms 204 
+2020-01-09 17:57:40,419 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:57:40,477 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 17:57:40,488 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 65.8106ms 204 
+2020-01-09 17:57:40,501 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:57:40,583 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 17:57:40,594 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 91.1957ms 204 
+2020-01-09 17:57:40,624 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:57:40,685 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 17:57:40,690 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 90.343ms 204 
+2020-01-09 17:57:40,719 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 17:57:40,788 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 17:57:40,797 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 96.4467ms 204 
+2020-01-09 17:57:54,334 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-01-09 17:57:54,712 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 379.2272ms 200 text/html
+2020-01-09 17:57:54,814 [16] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V2/swagger.json  
+2020-01-09 17:57:54,852 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-01-09 17:57:55,097 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 17:57:55,207 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 363.8513ms 404 text/plain
+2020-01-09 17:57:55,387 [16] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 551.3168ms 200 application/json;charset=utf-8
+2020-01-09 18:05:57,748 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:05:57,826 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:05:57,835 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 88.8385ms 204 
+2020-01-09 18:05:57,859 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:05:57,896 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:05:57,901 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 60.6975ms 204 
+2020-01-09 18:05:57,911 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:05:57,968 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:05:57,992 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 63.0357ms 204 
+2020-01-09 18:05:58,018 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:05:58,075 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:05:58,080 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 81.1817ms 204 
+2020-01-09 18:06:23,911 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:06:24,004 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:06:24,010 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 105.5906ms 204 
+2020-01-09 18:06:24,575 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:06:24,652 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:06:24,657 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 81.6808ms 204 
+2020-01-09 18:06:25,169 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:06:25,210 [15] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:06:25,236 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 47.6769ms 204 
+2020-01-09 18:06:25,797 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:06:25,858 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:06:25,863 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 86.9657ms 204 
+2020-01-09 18:07:00,973 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-01-09 18:07:01,353 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 402.6259ms 200 text/html
+2020-01-09 18:07:01,487 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V2/swagger.json  
+2020-01-09 18:07:01,518 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-01-09 18:07:01,714 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:07:01,836 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 324.8852ms 404 text/plain
+2020-01-09 18:07:02,023 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 549.0642ms 200 application/json;charset=utf-8
+2020-01-09 18:07:09,157 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:07:09,206 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:07:09,239 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 68.1359ms 204 
+2020-01-09 18:07:09,906 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:07:09,965 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:07:09,971 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 66.443ms 204 
+2020-01-09 18:07:10,460 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:07:10,540 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:07:10,546 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 88.6967ms 204 
+2020-01-09 18:07:11,048 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:07:11,148 [15] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:07:11,154 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 104.459ms 204 
+2020-01-09 18:07:51,450 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:07:51,563 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:07:51,591 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 126.3236ms 204 
+2020-01-09 18:07:51,595 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:07:51,671 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:07:51,695 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 78.89ms 204 
+2020-01-09 18:07:51,701 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:07:51,740 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:07:51,768 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 44.4724ms 204 
+2020-01-09 18:07:51,775 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:07:51,873 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:07:51,878 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 103.359ms 204 
+2020-01-09 18:12:46,967 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:12:47,041 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:12:47,065 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 101.8422ms 204 
+2020-01-09 18:12:47,072 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:12:47,137 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:12:47,142 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 70.4273ms 204 
+2020-01-09 18:12:47,169 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:12:47,229 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:12:47,238 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 84.2405ms 204 
+2020-01-09 18:12:47,265 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:12:47,346 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:12:47,353 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 105.8803ms 204 
+2020-01-09 18:14:12,976 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:14:13,014 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:14:13,019 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 44.7615ms 204 
+2020-01-09 18:14:13,043 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:14:13,111 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:14:13,117 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 91.282ms 204 
+2020-01-09 18:14:13,147 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:14:13,202 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:14:13,207 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 82.8285ms 204 
+2020-01-09 18:14:13,233 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:14:13,290 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:14:13,297 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 81.8929ms 204 
+2020-01-09 18:14:17,932 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:14:17,967 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:14:17,992 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 51.3084ms 204 
+2020-01-09 18:14:18,002 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:14:18,040 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:14:18,049 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 43.8745ms 204 
+2020-01-09 18:14:18,075 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:14:18,102 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:14:18,111 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 52.2308ms 204 
+2020-01-09 18:14:18,116 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:14:18,186 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:14:18,196 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 74.5828ms 204 
+2020-01-09 18:14:31,307 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:14:31,359 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:14:31,369 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 59.8952ms 204 
+2020-01-09 18:14:31,387 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:14:31,446 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:14:31,478 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 64.6168ms 204 
+2020-01-09 18:14:31,485 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:14:31,567 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:14:31,574 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 86.5784ms 204 
+2020-01-09 18:14:31,601 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:14:31,698 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:14:31,718 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 122.1242ms 204 
+2020-01-09 18:14:33,404 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:14:33,453 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:14:33,464 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 69.2759ms 204 
+2020-01-09 18:14:33,479 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:14:33,535 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:14:33,544 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 66.0575ms 204 
+2020-01-09 18:14:33,554 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:14:33,588 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:14:33,632 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 40.5321ms 204 
+2020-01-09 18:14:33,662 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:14:33,721 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:14:33,727 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 87.5525ms 204 
+2020-01-09 18:19:50,653 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-01-09 18:19:51,024 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 410.6683ms 200 text/html
+2020-01-09 18:19:51,145 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V2/swagger.json  
+2020-01-09 18:19:51,226 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-01-09 18:19:51,413 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:19:51,515 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 316.4321ms 404 text/plain
+2020-01-09 18:19:51,712 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 543.7603ms 200 application/json;charset=utf-8
+2020-01-09 18:25:20,208 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-01-09 18:25:20,591 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 414.7928ms 200 text/html
+2020-01-09 18:25:20,731 [16] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V2/swagger.json  
+2020-01-09 18:25:20,858 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-01-09 18:25:21,099 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:25:21,180 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 364.8656ms 404 text/plain
+2020-01-09 18:25:21,360 [16] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 628.0357ms 200 application/json;charset=utf-8
+2020-01-09 18:32:23,804 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-01-09 18:32:24,171 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 413.7724ms 200 text/html
+2020-01-09 18:32:24,330 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V2/swagger.json  
+2020-01-09 18:32:24,467 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-01-09 18:32:24,667 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:32:24,771 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 416.9472ms 404 text/plain
+2020-01-09 18:32:24,976 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 649.0577ms 200 application/json;charset=utf-8
+2020-01-09 18:32:53,185 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-01-09 18:32:53,535 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 381.5976ms 200 text/html
+2020-01-09 18:32:53,668 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V2/swagger.json  
+2020-01-09 18:32:53,795 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-01-09 18:32:53,986 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:32:54,091 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 372.6274ms 404 text/plain
+2020-01-09 18:32:54,278 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 589.4314ms 200 application/json;charset=utf-8
+2020-01-09 18:35:11,659 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/myChatHub  
+2020-01-09 18:35:11,758 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 96.9145ms 400 text/plain
+2020-01-09 18:35:41,337 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V1/swagger.json  
+2020-01-09 18:35:41,382 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 52.3414ms 200 application/json;charset=utf-8
+2020-01-09 18:36:05,263 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/signalr  
+2020-01-09 18:36:05,382 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 116.9369ms 400 text/plain
+2020-01-09 18:36:17,076 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/v1/signalr  
+2020-01-09 18:36:17,215 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 139.7525ms 404 
+2020-01-09 18:36:22,667 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/api/v1/myChatHub  
+2020-01-09 18:36:22,685 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 16.3037ms 404 
+2020-01-09 18:36:26,539 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/myChatHub  
+2020-01-09 18:36:26,576 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 36.961ms 400 text/plain
+2020-01-09 18:42:34,980 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/myChatHub/negotiate  
+2020-01-09 18:42:35,026 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:42:35,056 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 63.2827ms 204 
+2020-01-09 18:43:00,178 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/myChatHub/negotiate  
+2020-01-09 18:43:00,253 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:43:00,257 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 97.745ms 204 
+2020-01-09 18:47:56,218 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-01-09 18:47:56,606 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 409.153ms 200 text/html
+2020-01-09 18:47:56,740 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/V2/swagger.json  
+2020-01-09 18:47:56,785 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-01-09 18:47:56,918 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:47:57,023 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 224.1666ms 404 text/plain
+2020-01-09 18:47:57,205 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 465.0536ms 200 application/json;charset=utf-8
+2020-01-09 18:48:05,564 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/myChatHub/negotiate  
+2020-01-09 18:48:05,621 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:48:05,650 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 90.705ms 204 
+2020-01-09 18:48:05,672 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:48:05,730 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:48:05,782 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 148.5439ms 200 application/json
+2020-01-09 18:48:05,786 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/myChatHub?id=voIXe-Y0s-EJIF-zBra_PA  
+2020-01-09 18:48:05,827 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:48:06,310 [10] INFO  Microsoft.AspNetCore.SignalR.HubConnectionContext - Completed connection handshake. Using HubProtocol 'json'.
+2020-01-09 18:49:04,286 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/myChatHub/negotiate  
+2020-01-09 18:49:07,023 [19] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:49:19,224 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2950.2714ms 204 
+2020-01-09 18:49:19,272 [17] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:49:23,470 [17] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:49:23,518 [17] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 7609.9907ms 200 application/json
+2020-01-09 18:49:23,520 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/myChatHub?id=tf39xOGgDE1NOEMxAdO_Lg  
+2020-01-09 18:49:23,550 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 77738.4278ms 101 
+2020-01-09 18:49:23,567 [19] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:49:23,595 [19] INFO  Microsoft.AspNetCore.SignalR.HubConnectionContext - Completed connection handshake. Using HubProtocol 'json'.
+2020-01-09 18:50:05,451 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 41948.9724ms 101 
+2020-01-09 18:51:01,139 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:51:01,189 [18] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:01,224 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 55.5961ms 204 
+2020-01-09 18:51:01,256 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:01,328 [19] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:01,440 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 223.6841ms 404 
+2020-01-09 18:51:01,466 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:01,540 [19] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:01,548 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 101.3233ms 404 
+2020-01-09 18:51:01,574 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:01,625 [19] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:01,631 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 74.6807ms 404 
+2020-01-09 18:51:01,657 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:01,711 [19] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:01,715 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 78.4023ms 404 
+2020-01-09 18:51:20,647 [25] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:51:20,735 [25] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:20,761 [25] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 93.1425ms 204 
+2020-01-09 18:51:20,762 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:20,798 [18] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:20,803 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 61.7777ms 404 
+2020-01-09 18:51:24,889 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:24,938 [23] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:24,944 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 85.6743ms 404 
+2020-01-09 18:51:24,971 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:24,983 [23] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:24,989 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 37.7936ms 404 
+2020-01-09 18:51:24,995 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:25,049 [23] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:25,056 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 59.0413ms 404 
+2020-01-09 18:51:42,774 [31] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:51:42,835 [31] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:42,860 [31] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 106.3998ms 204 
+2020-01-09 18:51:42,863 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:42,942 [19] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:42,950 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 105.8006ms 404 
+2020-01-09 18:51:42,956 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:43,011 [19] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:43,020 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 59.6948ms 404 
+2020-01-09 18:51:43,045 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:43,095 [19] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:43,102 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 74.2504ms 404 
+2020-01-09 18:51:43,127 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:43,143 [19] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:43,149 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 39.1622ms 404 
+2020-01-09 18:51:44,909 [31] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:51:44,939 [31] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:44,998 [31] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 72.2884ms 204 
+2020-01-09 18:51:44,999 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:45,026 [23] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:45,053 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 78.2515ms 404 
+2020-01-09 18:51:45,078 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:45,111 [23] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:45,118 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 56.9575ms 404 
+2020-01-09 18:51:45,144 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:45,176 [23] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:45,182 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 56.7745ms 404 
+2020-01-09 18:51:45,188 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:45,219 [23] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:45,245 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 35.8502ms 404 
+2020-01-09 18:51:46,422 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/signalr-myChatHub/negotiate  
+2020-01-09 18:51:46,453 [18] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:46,472 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 71.6346ms 204 
+2020-01-09 18:51:46,498 [31] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:46,532 [31] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:46,562 [31] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 74.9214ms 404 
+2020-01-09 18:51:46,587 [31] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:46,640 [31] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:46,668 [31] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 76.1978ms 404 
+2020-01-09 18:51:46,674 [31] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:46,709 [31] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:46,735 [31] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 39.2926ms 404 
+2020-01-09 18:51:46,760 [31] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/signalr-myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:51:46,814 [31] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:51:46,820 [31] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 77.4117ms 404 
+2020-01-09 18:52:29,933 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/myChatHub/negotiate  
+2020-01-09 18:52:30,047 [18] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:52:30,059 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 170.6675ms 204 
+2020-01-09 18:52:30,063 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:52:30,089 [23] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:52:30,097 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 35.7519ms 200 application/json
+2020-01-09 18:52:30,101 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/myChatHub?id=GzHPl9DVFIblTOxgPSFSjA  
+2020-01-09 18:52:30,154 [18] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:52:30,167 [23] INFO  Microsoft.AspNetCore.SignalR.HubConnectionContext - Completed connection handshake. Using HubProtocol 'json'.
+2020-01-09 18:53:09,285 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/myChatHub/negotiate  
+2020-01-09 18:53:09,291 [41] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 39070.2746ms 101 
+2020-01-09 18:53:09,347 [23] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:53:09,372 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 178.065ms 204 
+2020-01-09 18:53:09,376 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:53:09,442 [18] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:53:09,475 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 95.0583ms 200 application/json
+2020-01-09 18:53:09,478 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/myChatHub?id=BCvrGIQFrWnCdDnfUlSDlg  
+2020-01-09 18:53:09,494 [19] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:53:09,509 [41] INFO  Microsoft.AspNetCore.SignalR.HubConnectionContext - Completed connection handshake. Using HubProtocol 'json'.
+2020-01-09 18:56:36,091 [44] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 206632.8405ms 101 
+2020-01-09 18:56:45,466 [49] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/myChatHub/negotiate  
+2020-01-09 18:56:45,496 [49] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:56:45,538 [49] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 80.7322ms 204 
+2020-01-09 18:56:45,546 [51] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:56:45,580 [51] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:56:45,585 [51] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 81.6814ms 200 application/json
+2020-01-09 18:56:45,611 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/myChatHub?id=HJ0BD0CZGdOQd7mjGEdDvw  
+2020-01-09 18:56:45,645 [18] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:56:45,673 [49] INFO  Microsoft.AspNetCore.SignalR.HubConnectionContext - Completed connection handshake. Using HubProtocol 'json'.
+2020-01-09 18:58:07,073 [49] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 81479.9637ms 101 
+2020-01-09 18:58:07,157 [44] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/myChatHub/negotiate  
+2020-01-09 18:58:07,245 [44] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:58:07,317 [44] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 97.4927ms 204 
+2020-01-09 18:58:07,318 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:58:07,376 [18] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:58:07,381 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 125.9189ms 200 application/json
+2020-01-09 18:58:07,409 [44] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/myChatHub?id=vRnDN8QkowMsQf-IYOAWjA  
+2020-01-09 18:58:07,467 [44] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:58:07,500 [49] INFO  Microsoft.AspNetCore.SignalR.HubConnectionContext - Completed connection handshake. Using HubProtocol 'json'.
+2020-01-09 18:59:30,288 [58] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 82773.0335ms 101 
+2020-01-09 18:59:30,404 [60] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:52458/myChatHub/negotiate  
+2020-01-09 18:59:30,431 [60] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:59:30,462 [60] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 44.9114ms 204 
+2020-01-09 18:59:30,514 [44] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/myChatHub/negotiate text/plain;charset=UTF-8 0
+2020-01-09 18:59:30,547 [44] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:59:30,553 [44] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 110.78ms 200 application/json
+2020-01-09 18:59:37,598 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/myChatHub?id=ZIs1kxiQLPAhz4z8bT3Znw  
+2020-01-09 18:59:37,634 [18] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-01-09 18:59:37,664 [49] INFO  Microsoft.AspNetCore.SignalR.HubConnectionContext - Completed connection handshake. Using HubProtocol 'json'.

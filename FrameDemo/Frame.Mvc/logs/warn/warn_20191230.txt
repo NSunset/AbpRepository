@@ -1,0 +1,1065 @@
+2019-12-30 10:03:05,515 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 10:03:05,553 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 10:03:05,848 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 10:03:05,906 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 10:03:05,930 [3] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 10:03:05,937 [3] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 10:06:45,543 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 10:06:45,622 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 10:06:45,885 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 10:06:45,909 [14] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 10:14:15,249 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 10:14:15,264 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 10:14:15,531 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 10:14:15,554 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 10:15:36,202 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 10:15:36,214 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 10:15:36,446 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 10:15:36,471 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 10:17:08,241 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 10:17:08,251 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 10:17:08,490 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 10:17:08,515 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 10:23:21,390 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 10:23:21,426 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 10:23:21,713 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 10:23:21,719 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 10:46:07,571 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 10:46:07,587 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 10:46:07,854 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 10:46:07,873 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 10:52:37,985 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 10:52:37,991 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 10:52:38,230 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 10:52:38,260 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 11:13:39,662 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 11:13:39,667 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 11:13:39,955 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 11:13:39,959 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 11:17:44,560 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 11:17:44,590 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 11:17:44,855 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 11:17:44,865 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 11:22:19,397 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 11:22:19,401 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 11:22:19,643 [13] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 11:22:19,655 [13] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 11:35:41,323 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 11:35:41,353 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 11:35:41,592 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 11:35:41,596 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 11:37:24,075 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 11:37:24,086 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 11:37:24,318 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 11:37:24,321 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 11:38:29,340 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 11:38:29,351 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 11:38:29,599 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 11:38:29,605 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 14:00:53,229 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 14:00:53,288 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 14:00:53,878 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 14:00:53,903 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 16:07:31,370 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 16:07:31,403 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 16:07:31,709 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 16:07:31,714 [16] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 16:22:32,939 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 16:22:32,976 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 16:22:33,253 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 16:22:33,261 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 16:25:13,266 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 16:25:13,294 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 16:39:58,323 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 16:39:58,334 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 16:39:58,624 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 16:39:58,629 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 16:42:43,412 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 16:42:43,449 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 16:42:43,712 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 16:42:43,720 [10] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 16:49:45,377 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 16:49:45,403 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 16:49:45,686 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 16:49:45,714 [15] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 16:59:02,782 [Worker #4] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '4': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:39.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 16:59:12,121 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 16:59:12,131 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 16:59:12,379 [44] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 16:59:12,384 [44] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 16:59:17,401 [Worker #6] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '5': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:35.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 16:59:17,483 [Worker #5] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '6': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:40.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 16:59:48,737 [Worker #4] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '4': an exception occurred. Retry attempt 2 of 10 will be performed in 00:01:14.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 16:59:49,433 [Worker #4] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '5': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:24.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 16:59:50,141 [Worker #4] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '6': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:28.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:00:02,466 [Worker #9] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '7': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:30.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:00:04,766 [Worker #5] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '5': an exception occurred. Retry attempt 3 of 10 will be performed in 00:00:49.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:00:05,373 [Worker #5] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '6': an exception occurred. Retry attempt 3 of 10 will be performed in 00:01:28.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:00:05,921 [Worker #5] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '7': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:30.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:00:21,046 [Worker #4] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '7': an exception occurred. Retry attempt 3 of 10 will be performed in 00:01:10.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:02:48,151 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 17:02:48,155 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 17:02:48,400 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 17:02:48,406 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 17:02:58,030 [Worker #7] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '9': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:41.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:02:58,032 [Worker #3] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '4': an exception occurred. Retry attempt 3 of 10 will be performed in 00:00:52.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:02:58,076 [Worker #2] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '8': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:17.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:02:58,053 [Worker #5] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '6': an exception occurred. Retry attempt 4 of 10 will be performed in 00:03:16.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:02:58,098 [Worker #4] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '7': an exception occurred. Retry attempt 4 of 10 will be performed in 00:02:56.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:02:58,115 [Worker #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '5': an exception occurred. Retry attempt 4 of 10 will be performed in 00:02:52.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:04:15,740 [Worker #4] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '9': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:24.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:04:16,520 [Worker #4] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '10': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:31.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:04:17,086 [Worker #4] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '4': an exception occurred. Retry attempt 4 of 10 will be performed in 00:01:56.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:04:17,953 [Worker #4] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '8': an exception occurred. Retry attempt 2 of 10 will be performed in 00:01:14.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:04:33,884 [Worker #4] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '9': an exception occurred. Retry attempt 3 of 10 will be performed in 00:00:55.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:04:34,725 [Worker #4] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '10': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:20.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:05:05,872 [Worker #4] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '11': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:21.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:06:22,066 [Worker #4] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '11': an exception occurred. Retry attempt 2 of 10 will be performed in 00:01:00.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:06:23,132 [Worker #4] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '12': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:30.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:26:14,893 [Worker #2] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '12': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:16.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:26:15,571 [Worker #2] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '11': an exception occurred. Retry attempt 3 of 10 will be performed in 00:01:46.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:26:16,043 [Worker #2] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '13': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:20.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:27:45,586 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 17:27:45,607 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 17:27:45,862 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 17:27:45,939 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 17:27:58,988 [Worker #3] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '13': an exception occurred. Retry attempt 2 of 10 will be performed in 00:01:14.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:27:58,994 [Worker #14] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '15': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:18.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:27:59,031 [Worker #10] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '14': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:33.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:27:59,053 [Worker #19] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '12': an exception occurred. Retry attempt 3 of 10 will be performed in 00:00:46.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:27:59,061 [Worker #5] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '11': an exception occurred. Retry attempt 4 of 10 will be performed in 00:01:48.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:28:13,813 [Worker #13] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '16': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:36.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:28:13,821 [Worker #6] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '15': an exception occurred. Retry attempt 2 of 10 will be performed in 00:01:02.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:28:13,845 [Worker #20] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '14': an exception occurred. Retry attempt 2 of 10 will be performed in 00:01:12.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:29:59,463 [Worker #11] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '13': an exception occurred. Retry attempt 3 of 10 will be performed in 00:01:40.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:29:59,561 [Worker #18] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '17': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:23.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:29:59,667 [Worker #17] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '14': an exception occurred. Retry attempt 3 of 10 will be performed in 00:01:22.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:29:59,672 [Worker #16] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '11': an exception occurred. Retry attempt 5 of 10 will be performed in 00:05:46.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:29:59,678 [Worker #2] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '16': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:18.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:29:59,686 [Worker #4] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '12': an exception occurred. Retry attempt 4 of 10 will be performed in 00:02:24.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:29:59,689 [Worker #7] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '15': an exception occurred. Retry attempt 3 of 10 will be performed in 00:01:52.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:30:14,437 [Worker #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '18': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:33.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:30:14,629 [Worker #15] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '16': an exception occurred. Retry attempt 3 of 10 will be performed in 00:01:58.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:30:14,785 [Worker #9] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '17': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:36.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:32:00,337 [Worker #6] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '15': an exception occurred. Retry attempt 4 of 10 will be performed in 00:02:32.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:32:00,452 [Worker #19] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '18': an exception occurred. Retry attempt 2 of 10 will be performed in 00:01:00.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:32:00,577 [Worker #13] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '14': an exception occurred. Retry attempt 4 of 10 will be performed in 00:02:56.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:32:00,705 [Worker #20] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '12': an exception occurred. Retry attempt 5 of 10 will be performed in 00:05:56.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:32:00,848 [Worker #8] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '13': an exception occurred. Retry attempt 4 of 10 will be performed in 00:02:56.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:32:00,817 [Worker #12] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '19': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:31.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:32:01,044 [Worker #10] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '17': an exception occurred. Retry attempt 3 of 10 will be performed in 00:00:31.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:32:01,480 [Worker #14] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '16': an exception occurred. Retry attempt 4 of 10 will be performed in 00:02:48.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:32:02,368 [Worker #12] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '20': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:32.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:32:15,206 [Worker #3] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '19': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:36.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:32:15,386 [Worker #5] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '17': an exception occurred. Retry attempt 4 of 10 will be performed in 00:02:44.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:32:15,506 [Worker #11] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '20': an exception occurred. Retry attempt 2 of 10 will be performed in 00:01:02.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:34:19,989 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 17:34:19,993 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 17:34:20,242 [45] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 17:34:20,246 [45] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 17:34:30,971 [Worker #5] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '16': an exception occurred. Retry attempt 5 of 10 will be performed in 00:06:31.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:34:30,974 [Worker #4] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '20': an exception occurred. Retry attempt 3 of 10 will be performed in 00:00:31.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:34:30,975 [Worker #2] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '21': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:41.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:34:30,980 [Worker #6] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '19': an exception occurred. Retry attempt 3 of 10 will be performed in 00:01:37.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:34:30,993 [Worker #10] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '22': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:36.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:34:31,008 [Worker #3] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '18': an exception occurred. Retry attempt 3 of 10 will be performed in 00:01:49.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:34:31,014 [Worker #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '15': an exception occurred. Retry attempt 5 of 10 will be performed in 00:04:31.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:36:15,756 [Worker #7] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '23': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:21.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:36:30,918 [Worker #12] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '23': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:42.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:37:01,632 [Worker #7] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '24': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:27.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:46:07,470 [Worker #3] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '27': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:18.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:47:35,463 [Worker #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '27': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:26.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:47:39,846 [Worker #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '28': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:17.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:47:40,384 [Worker #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '29': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:24.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:47:40,574 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 17:47:40,586 [11] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 17:47:40,845 [48] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 17:47:40,850 [48] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 17:48:56,491 [Worker #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '30': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:29.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:49:05,469 [Worker #3] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '31': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:29.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:49:12,086 [Worker #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '31': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:18.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:49:12,567 [Worker #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '30': an exception occurred. Retry attempt 2 of 10 will be performed in 00:01:12.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:49:28,051 [Worker #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '31': an exception occurred. Retry attempt 3 of 10 will be performed in 00:01:43.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:50:23,357 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 17:50:23,368 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 17:50:23,608 [44] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 17:50:23,612 [44] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 17:50:27,459 [Worker #3] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '32': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:36.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:51:41,803 [Worker #3] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '30': an exception occurred. Retry attempt 3 of 10 will be performed in 00:01:25.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:51:41,813 [Worker #6] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '32': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:16.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:51:41,824 [Worker #2] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '31': an exception occurred. Retry attempt 4 of 10 will be performed in 00:02:32.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:51:41,827 [Worker #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '33': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:21.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:51:43,012 [Worker #3] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '34': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:17.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:51:43,576 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 17:51:43,581 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 17:51:43,839 [45] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 17:51:43,847 [45] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 17:51:44,506 [Worker #3] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '32': an exception occurred. Retry attempt 3 of 10 will be performed in 00:01:40.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:52:07,793 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 17:52:07,800 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 17:52:15,854 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 17:52:15,859 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 17:52:24,465 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 17:52:24,469 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 17:53:15,346 [Worker #3] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '35': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:43.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:53:31,214 [Worker #3] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '35': an exception occurred. Retry attempt 2 of 10 will be performed in 00:01:12.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 17:58:07,158 [DelayedJobScheduler #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '35': an exception occurred. Retry attempt 3 of 10 will be performed in 00:00:55.
+System.TypeLoadException: Could not load type 'Frame.BackgroundWorker.BackgroundWorker`1' from assembly 'Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.RuntimeAssembly.GetType(RuntimeAssembly assembly, String name, Boolean throwOnError, Boolean ignoreCase, ObjectHandleOnStack type, ObjectHandleOnStack keepAlive)
+   at System.Reflection.RuntimeAssembly.GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.TypeNameParser.ResolveType(Assembly assembly, String[] names, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.ConstructType(Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError)
+   at Hangfire.Common.TypeHelper.DefaultTypeResolver(String typeName)
+   at Hangfire.Storage.InvocationData.DeserializeJob()
+2019-12-30 17:59:41,887 [DelayedJobScheduler #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '35': an exception occurred. Retry attempt 4 of 10 will be performed in 00:01:44.
+System.TypeLoadException: Could not load type 'Frame.BackgroundWorker.BackgroundWorker`1' from assembly 'Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.RuntimeAssembly.GetType(RuntimeAssembly assembly, String name, Boolean throwOnError, Boolean ignoreCase, ObjectHandleOnStack type, ObjectHandleOnStack keepAlive)
+   at System.Reflection.RuntimeAssembly.GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.TypeNameParser.ResolveType(Assembly assembly, String[] names, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.ConstructType(Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError)
+   at Hangfire.Common.TypeHelper.DefaultTypeResolver(String typeName)
+   at Hangfire.Storage.InvocationData.DeserializeJob()
+2019-12-30 17:59:54,812 [41] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 17:59:54,816 [41] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 17:59:55,134 [48] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 17:59:55,168 [48] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 17:59:55,174 [Worker #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '36': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:42.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 18:00:06,117 [Worker #19] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '37': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:29.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 18:01:43,393 [DelayedJobScheduler #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '35': an exception occurred. Retry attempt 5 of 10 will be performed in 00:06:56.
+System.TypeLoadException: Could not load type 'Frame.BackgroundWorker.BackgroundWorker`1' from assembly 'Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.RuntimeAssembly.GetType(RuntimeAssembly assembly, String name, Boolean throwOnError, Boolean ignoreCase, ObjectHandleOnStack type, ObjectHandleOnStack keepAlive)
+   at System.Reflection.RuntimeAssembly.GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.TypeNameParser.ResolveType(Assembly assembly, String[] names, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.ConstructType(Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError)
+   at Hangfire.Common.TypeHelper.DefaultTypeResolver(String typeName)
+   at Hangfire.Storage.InvocationData.DeserializeJob()
+2019-12-30 18:01:51,172 [Worker #18] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '38': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:21.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 18:02:06,118 [Worker #20] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '38': an exception occurred. Retry attempt 2 of 10 will be performed in 00:01:00.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 18:02:06,872 [Worker #20] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '39': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:20.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 18:18:59,582 [Worker #4] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '39': an exception occurred. Retry attempt 2 of 10 will be performed in 00:01:08.
+System.TypeLoadException: Could not load type 'Frame.BackgroundWorker.BackgroundWorker' from assembly 'Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.RuntimeAssembly.GetType(RuntimeAssembly assembly, String name, Boolean throwOnError, Boolean ignoreCase, ObjectHandleOnStack type, ObjectHandleOnStack keepAlive)
+   at System.Reflection.RuntimeAssembly.GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.TypeNameParser.ResolveType(Assembly assembly, String[] names, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.ConstructType(Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError)
+   at Hangfire.Common.TypeHelper.DefaultTypeResolver(String typeName)
+   at Hangfire.Storage.InvocationData.DeserializeJob()
+2019-12-30 18:18:59,588 [DelayedJobScheduler #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '38': an exception occurred. Retry attempt 3 of 10 will be performed in 00:01:46.
+System.TypeLoadException: Could not load type 'Frame.BackgroundWorker.BackgroundWorker' from assembly 'Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.RuntimeAssembly.GetType(RuntimeAssembly assembly, String name, Boolean throwOnError, Boolean ignoreCase, ObjectHandleOnStack type, ObjectHandleOnStack keepAlive)
+   at System.Reflection.RuntimeAssembly.GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.TypeNameParser.ResolveType(Assembly assembly, String[] names, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.ConstructType(Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError)
+   at Hangfire.Common.TypeHelper.DefaultTypeResolver(String typeName)
+   at Hangfire.Storage.InvocationData.DeserializeJob()
+2019-12-30 18:21:06,107 [DelayedJobScheduler #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '39': an exception occurred. Retry attempt 3 of 10 will be performed in 00:01:13.
+System.TypeLoadException: Could not load type 'Frame.BackgroundWorker.BackgroundWorker' from assembly 'Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.RuntimeAssembly.GetType(RuntimeAssembly assembly, String name, Boolean throwOnError, Boolean ignoreCase, ObjectHandleOnStack type, ObjectHandleOnStack keepAlive)
+   at System.Reflection.RuntimeAssembly.GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.TypeNameParser.ResolveType(Assembly assembly, String[] names, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.ConstructType(Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError)
+   at Hangfire.Common.TypeHelper.DefaultTypeResolver(String typeName)
+   at Hangfire.Storage.InvocationData.DeserializeJob()
+2019-12-30 18:21:06,205 [Worker #20] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '35': an exception occurred. Retry attempt 6 of 10 will be performed in 00:13:10.
+System.InvalidOperationException: A suitable constructor for type 'Frame.BackgroundWorker.BackgroundWorker`1[Frame.Domain.Sms.SmsWorker]' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Hangfire.Server.CoreBackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.BackgroundJobPerformer.<>c__DisplayClass9_0.<PerformJobWithFilters>b__0()
+   at Hangfire.Server.BackgroundJobPerformer.InvokePerformFilter(IServerFilter filter, PerformingContext preContext, Func`1 continuation)
+   at Hangfire.Server.BackgroundJobPerformer.PerformJobWithFilters(PerformContext context, IEnumerable`1 filters)
+   at Hangfire.Server.BackgroundJobPerformer.Perform(PerformContext context)
+   at Hangfire.Server.Worker.PerformJob(BackgroundProcessContext context, IStorageConnection connection, String jobId)
+2019-12-30 18:21:06,503 [DelayedJobScheduler #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '38': an exception occurred. Retry attempt 4 of 10 will be performed in 00:02:52.
+System.TypeLoadException: Could not load type 'Frame.BackgroundWorker.BackgroundWorker' from assembly 'Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.RuntimeAssembly.GetType(RuntimeAssembly assembly, String name, Boolean throwOnError, Boolean ignoreCase, ObjectHandleOnStack type, ObjectHandleOnStack keepAlive)
+   at System.Reflection.RuntimeAssembly.GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.TypeNameParser.ResolveType(Assembly assembly, String[] names, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.ConstructType(Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError)
+   at Hangfire.Common.TypeHelper.DefaultTypeResolver(String typeName)
+   at Hangfire.Storage.InvocationData.DeserializeJob()
+2019-12-30 18:21:12,668 [40] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 18:21:12,679 [40] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 18:21:12,927 [49] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 18:21:12,931 [49] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 18:23:24,322 [DelayedJobScheduler #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '39': an exception occurred. Retry attempt 4 of 10 will be performed in 00:03:00.
+System.TypeLoadException: Could not load type 'Frame.BackgroundWorker.BackgroundWorker' from assembly 'Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.RuntimeAssembly.GetType(RuntimeAssembly assembly, String name, Boolean throwOnError, Boolean ignoreCase, ObjectHandleOnStack type, ObjectHandleOnStack keepAlive)
+   at System.Reflection.RuntimeAssembly.GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.TypeNameParser.ResolveType(Assembly assembly, String[] names, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.ConstructType(Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError)
+   at Hangfire.Common.TypeHelper.DefaultTypeResolver(String typeName)
+   at Hangfire.Storage.InvocationData.DeserializeJob()
+2019-12-30 18:23:25,162 [DelayedJobScheduler #1] WARN  Hangfire.AutomaticRetryAttribute - Failed to process the job '38': an exception occurred. Retry attempt 5 of 10 will be performed in 00:06:41.
+System.TypeLoadException: Could not load type 'Frame.BackgroundWorker.BackgroundWorker' from assembly 'Frame.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.RuntimeAssembly.GetType(RuntimeAssembly assembly, String name, Boolean throwOnError, Boolean ignoreCase, ObjectHandleOnStack type, ObjectHandleOnStack keepAlive)
+   at System.Reflection.RuntimeAssembly.GetType(String name, Boolean throwOnError, Boolean ignoreCase)
+   at System.TypeNameParser.ResolveType(Assembly assembly, String[] names, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.ConstructType(Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.TypeNameParser.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError, Boolean ignoreCase, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Func`2 assemblyResolver, Func`4 typeResolver, Boolean throwOnError)
+   at Hangfire.Common.TypeHelper.DefaultTypeResolver(String typeName)
+   at Hangfire.Storage.InvocationData.DeserializeJob()
+2019-12-30 18:23:25,997 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 18:23:26,011 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 18:23:26,289 [46] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 18:23:26,295 [46] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 18:25:54,556 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 18:25:54,561 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 18:25:54,825 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 18:25:54,831 [8] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 18:43:26,539 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 18:43:26,549 [9] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.
+2019-12-30 18:43:26,813 [44] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported cultures 'zh-CN, zh, en'.
+2019-12-30 18:43:26,818 [44] WARN  Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware - AcceptLanguageHeaderRequestCultureProvider returned the following unsupported UI Cultures 'zh-CN, zh, en'.

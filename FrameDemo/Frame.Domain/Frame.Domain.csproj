@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\release\netcoreapp2.0\Frame.Domain.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ABP\Abp.Web.Common\Abp.Web.Common.csproj" />
+    <ProjectReference Include="..\Frame.BackgroundWorker\Frame.BackgroundWorker.csproj" />
+    <ProjectReference Include="..\Frame.Common\Frame.Common.csproj" />
+  </ItemGroup>
+
+</Project>

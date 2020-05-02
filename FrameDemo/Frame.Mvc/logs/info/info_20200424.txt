@@ -1,0 +1,446 @@
+2020-04-24 14:13:17,914 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/  
+2020-04-24 14:13:19,237 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1356.4682ms 404 
+2020-04-24 14:13:31,312 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger  
+2020-04-24 14:13:31,382 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 72.6321ms 301 
+2020-04-24 14:13:31,389 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/index.html  
+2020-04-24 14:13:31,429 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 38.1464ms 200 text/html
+2020-04-24 14:13:31,458 [13] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/swagger-ui.css  
+2020-04-24 14:13:31,471 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/profiler/includes.min.js?v=4.0.138+gcc91adf599  
+2020-04-24 14:13:31,502 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/swagger-ui-standalone-preset.js  
+2020-04-24 14:13:31,528 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/swagger-ui-bundle.js  
+2020-04-24 14:13:31,785 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 322.6065ms 200 application/javascript
+2020-04-24 14:13:31,824 [13] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2020-04-24 14:13:31,853 [13] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 388.4806ms 200 text/css
+2020-04-24 14:13:31,881 [19] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2020-04-24 14:13:31,887 [19] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 422.8239ms 200 application/javascript
+2020-04-24 14:13:31,908 [9] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2020-04-24 14:13:31,913 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 451.6558ms 200 application/javascript
+2020-04-24 14:13:32,083 [13] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/V2/swagger.json  
+2020-04-24 14:13:32,140 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/profiler/includes.min.css?v=4.0.138+gcc91adf599  
+2020-04-24 14:13:32,153 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/favicon-32x32.png  
+2020-04-24 14:13:32,203 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/profiler/results application/json 9
+2020-04-24 14:13:32,280 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 155.6185ms 200 text/css
+2020-04-24 14:13:32,349 [18] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2020-04-24 14:13:32,398 [18] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 217.2235ms 200 image/png
+2020-04-24 14:13:32,414 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:13:32,533 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 425.3683ms 200 application/json
+2020-04-24 14:13:32,583 [13] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 496.5432ms 200 application/json;charset=utf-8
+2020-04-24 14:14:35,206 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/  
+2020-04-24 14:14:36,068 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 890.4079ms 404 
+2020-04-24 14:14:40,341 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/  
+2020-04-24 14:14:40,385 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 62.2019ms 404 
+2020-04-24 14:14:51,867 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/home/index  
+2020-04-24 14:14:51,909 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 54.6791ms 404 
+2020-04-24 14:15:01,265 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/home/Index  
+2020-04-24 14:15:01,324 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 45.4643ms 404 
+2020-04-24 14:15:23,724 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/index.html  
+2020-04-24 14:15:23,833 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 109.3303ms 200 text/html
+2020-04-24 14:15:24,098 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/V2/swagger.json  
+2020-04-24 14:15:24,157 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/profiler/results application/json 9
+2020-04-24 14:15:24,210 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:15:24,478 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 344.341ms 200 application/json
+2020-04-24 14:15:24,608 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 510.9014ms 500 
+2020-04-24 14:16:27,330 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/  
+2020-04-24 14:16:28,171 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 865.4215ms 404 
+2020-04-24 14:16:32,509 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/index.html  
+2020-04-24 14:16:32,586 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 81.721ms 200 text/html
+2020-04-24 14:16:32,699 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/V2/swagger.json  
+2020-04-24 14:16:32,736 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/profiler/results application/json 9
+2020-04-24 14:16:32,789 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:16:32,889 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 174.622ms 200 application/json
+2020-04-24 14:16:32,958 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 251.1951ms 200 application/json;charset=utf-8
+2020-04-24 14:16:38,354 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/V1/swagger.json  
+2020-04-24 14:16:38,400 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 68.1194ms 200 application/json;charset=utf-8
+2020-04-24 14:16:41,178 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/V2/swagger.json  
+2020-04-24 14:16:41,228 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 29.4988ms 200 application/json;charset=utf-8
+2020-04-24 14:16:49,775 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/V1/swagger.json  
+2020-04-24 14:16:49,850 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 54.1016ms 200 application/json;charset=utf-8
+2020-04-24 14:16:52,043 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/V2/swagger.json  
+2020-04-24 14:16:52,104 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 63.9492ms 200 application/json;charset=utf-8
+2020-04-24 14:21:26,858 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/V1/swagger.json  
+2020-04-24 14:21:26,922 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 66.4088ms 200 application/json;charset=utf-8
+2020-04-24 14:33:48,017 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/V2/swagger.json  
+2020-04-24 14:33:48,081 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 63.5186ms 200 application/json;charset=utf-8
+2020-04-24 14:35:57,339 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/frame/job  
+2020-04-24 14:35:57,418 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 77.5499ms 404 
+2020-04-24 14:45:35,363 [1] INFO  Hangfire.MySql.Core.MySqlStorage - DB tables already exist. Exit install
+2020-04-24 14:45:36,982 [BackgroundServerProcess #1] INFO  Hangfire.Server.BackgroundServerProcess - Server desktop-hvt3iv2:24188:7f45729a successfully announced in 779.1092 ms
+2020-04-24 14:45:36,998 [BackgroundServerProcess #1] INFO  Hangfire.Server.BackgroundServerProcess - Server desktop-hvt3iv2:24188:7f45729a is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2020-04-24 14:45:37,237 [BackgroundServerProcess #1] INFO  Hangfire.Server.BackgroundServerProcess - Server desktop-hvt3iv2:24188:7f45729a all the dispatchers started
+2020-04-24 14:45:37,782 [ServerWatchdog #1] INFO  Hangfire.Server.ServerWatchdog - 2 servers were removed due to timeout
+2020-04-24 14:45:51,352 [5] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/frame/job  
+2020-04-24 14:45:51,877 [5] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 535.3065ms 200 text/html
+2020-04-24 14:45:51,895 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/frame/job/js1740  
+2020-04-24 14:45:51,910 [5] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/frame/job/css1740  
+2020-04-24 14:45:52,084 [5] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 171.8709ms 200 text/css
+2020-04-24 14:45:52,092 [44] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 207.4666ms 200 application/javascript
+2020-04-24 14:45:52,228 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/frame/job/fonts/glyphicons-halflings-regular/woff2  
+2020-04-24 14:45:52,241 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 12.0365ms 200 font/woff2
+2020-04-24 14:45:52,254 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/favicon.ico  
+2020-04-24 14:45:52,654 [5] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon.ico'. Physical path: 'C:\work\Test\FrameDemo\Frame.Mvc\wwwroot\favicon.ico'
+2020-04-24 14:45:52,662 [43] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 408.1904ms 200 image/x-icon
+2020-04-24 14:45:53,440 [Worker #19] INFO  Abp.Logging.LogHelper - 短信调度执行中。。。。发型短信内容f1e3584d-cb77-4339-8ec3-e136334b54b5
+2020-04-24 14:45:54,236 [5] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:45:54,331 [5] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 100.7909ms 200 application/json
+2020-04-24 14:45:56,236 [5] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:45:56,263 [5] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 34.5212ms 200 application/json
+2020-04-24 14:45:58,232 [5] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:45:58,252 [5] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 23.4468ms 200 application/json
+2020-04-24 14:46:00,224 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:46:00,236 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 12.4238ms 200 application/json
+2020-04-24 14:46:02,223 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:46:02,238 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 13.8261ms 200 application/json
+2020-04-24 14:46:04,236 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:46:04,257 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 28.5551ms 200 application/json
+2020-04-24 14:46:06,242 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:46:06,264 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 33.2646ms 200 application/json
+2020-04-24 14:46:08,227 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:46:08,243 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 17.0185ms 200 application/json
+2020-04-24 14:46:10,225 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:46:10,240 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 15.5883ms 200 application/json
+2020-04-24 14:46:12,227 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:46:12,244 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 18.5846ms 200 application/json
+2020-04-24 14:46:14,225 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:46:35,181 [45] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/frame/job  
+2020-04-24 14:46:37,189 [44] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:46:37,265 [43] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:46:38,062 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:46:51,928 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 14660.5064ms 200 application/json
+2020-04-24 14:46:51,940 [45] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 19319.2154ms 200 text/html
+2020-04-24 14:46:51,949 [44] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 16672.6288ms 200 application/json
+2020-04-24 14:46:51,974 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 37629.0241ms 200 application/json
+2020-04-24 14:46:52,003 [43] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 16670.6133ms 200 application/json
+2020-04-24 14:46:52,017 [44] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/frame/job/css1740  
+2020-04-24 14:46:52,025 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/frame/job/js1740  
+2020-04-24 14:46:52,058 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 22.2122ms 200 text/css
+2020-04-24 14:46:52,094 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/frame/job/fonts/glyphicons-halflings-regular/woff2  
+2020-04-24 14:46:52,103 [43] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 61.4481ms 200 application/javascript
+2020-04-24 14:46:52,131 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 33.4927ms 200 font/woff2
+2020-04-24 14:46:52,188 [43] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/favicon.ico  
+2020-04-24 14:46:52,210 [6] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon.ico'. Physical path: 'C:\work\Test\FrameDemo\Frame.Mvc\wwwroot\favicon.ico'
+2020-04-24 14:46:52,217 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 27.7345ms 200 image/x-icon
+2020-04-24 14:46:54,173 [45] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:46:54,197 [45] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 23.4276ms 200 application/json
+2020-04-24 14:46:56,182 [45] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:46:56,217 [45] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 40.3413ms 200 application/json
+2020-04-24 14:46:58,493 [45] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:46:58,524 [45] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 39.0976ms 200 application/json
+2020-04-24 14:47:00,493 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:47:00,532 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 45.8014ms 200 application/json
+2020-04-24 14:47:02,483 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:47:02,508 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 26.9109ms 200 application/json
+2020-04-24 14:47:04,489 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:47:04,524 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 40.9281ms 200 application/json
+2020-04-24 14:47:06,479 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:47:06,504 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 24.1715ms 200 application/json
+2020-04-24 14:47:08,492 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:47:08,516 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 29.0572ms 200 application/json
+2020-04-24 14:47:10,484 [43] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:47:10,501 [43] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 15.7974ms 200 application/json
+2020-04-24 14:47:12,492 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:47:12,510 [6] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 19.3252ms 200 application/json
+2020-04-24 14:47:14,479 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:47:14,494 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 15.4777ms 200 application/json
+2020-04-24 14:47:16,481 [45] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:47:16,501 [45] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 20.4863ms 200 application/json
+2020-04-24 14:47:18,491 [45] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:47:18,513 [45] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 24.7286ms 200 application/json
+2020-04-24 14:47:20,483 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:47:20,505 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 22.8035ms 200 application/json
+2020-04-24 14:47:22,492 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:47:22,513 [46] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 25.5176ms 200 application/json
+2020-04-24 14:49:42,586 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:49:43,036 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:49:43,405 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 827.0569ms 404 
+2020-04-24 14:49:44,507 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:49:44,566 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:49:44,584 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 97.2469ms 404 
+2020-04-24 14:49:46,503 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:49:46,567 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:49:46,575 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 95.3702ms 404 
+2020-04-24 14:49:48,505 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:49:48,590 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:49:48,599 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 117.6292ms 404 
+2020-04-24 14:49:50,499 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:49:50,558 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:49:50,585 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 86.7605ms 404 
+2020-04-24 14:49:52,486 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:49:52,509 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:49:52,535 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 30.5745ms 404 
+2020-04-24 14:49:54,475 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:49:54,532 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:49:54,557 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 62.159ms 404 
+2020-04-24 14:49:56,492 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:49:56,554 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:49:56,561 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 77.2089ms 404 
+2020-04-24 14:49:58,478 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:49:58,521 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:49:58,528 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 49.0636ms 404 
+2020-04-24 14:50:00,508 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:00,560 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:00,586 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 83.897ms 404 
+2020-04-24 14:50:02,498 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:02,540 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:02,567 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 69.6626ms 404 
+2020-04-24 14:50:04,529 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:04,567 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:04,573 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 64.5014ms 404 
+2020-04-24 14:50:06,506 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:06,607 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:06,637 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 133.214ms 404 
+2020-04-24 14:50:08,500 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:08,566 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:08,594 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 95.2238ms 404 
+2020-04-24 14:50:10,504 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:10,527 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:10,554 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 49.7219ms 404 
+2020-04-24 14:50:12,475 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:12,553 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:12,558 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 83.5224ms 404 
+2020-04-24 14:50:14,496 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:14,552 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:14,578 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 81.3103ms 404 
+2020-04-24 14:50:16,505 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:16,603 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:16,630 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 128.4795ms 404 
+2020-04-24 14:50:18,489 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:18,579 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:18,609 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 103.4759ms 404 
+2020-04-24 14:50:20,506 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:20,565 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:20,584 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 94.2683ms 404 
+2020-04-24 14:50:22,503 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:22,563 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:22,588 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 70.9522ms 404 
+2020-04-24 14:50:24,495 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:24,571 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:24,597 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 101.7176ms 404 
+2020-04-24 14:50:26,511 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:26,585 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:26,612 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 105.9846ms 404 
+2020-04-24 14:50:28,502 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:28,520 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:28,525 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 44.5881ms 404 
+2020-04-24 14:50:30,507 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:30,583 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:30,590 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 109.187ms 404 
+2020-04-24 14:50:32,495 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:32,551 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:32,557 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 81.2727ms 404 
+2020-04-24 14:50:34,501 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:34,589 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:34,595 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 117.5541ms 404 
+2020-04-24 14:50:36,479 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:36,546 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:36,574 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 74.6681ms 404 
+2020-04-24 14:50:38,503 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:38,572 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:38,577 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 97.441ms 404 
+2020-04-24 14:50:40,507 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:40,612 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:40,627 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 139.9184ms 404 
+2020-04-24 14:50:42,508 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:42,576 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:42,608 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 99.7303ms 404 
+2020-04-24 14:50:44,500 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:44,563 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:44,590 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 92.4141ms 404 
+2020-04-24 14:50:46,495 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:46,533 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:46,539 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 64.1583ms 404 
+2020-04-24 14:50:48,486 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:48,564 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:48,570 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 89.4284ms 404 
+2020-04-24 14:50:50,507 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:50,600 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:50,610 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 126.4276ms 404 
+2020-04-24 14:50:52,503 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:52,591 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:52,620 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 117.3288ms 404 
+2020-04-24 14:50:54,517 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:54,555 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:54,581 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 66.1357ms 404 
+2020-04-24 14:50:56,488 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:56,533 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:56,561 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 59.9136ms 404 
+2020-04-24 14:50:58,494 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:50:58,550 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:50:58,576 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 82.0191ms 404 
+2020-04-24 14:51:00,485 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:00,585 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:00,594 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 111.363ms 404 
+2020-04-24 14:51:02,476 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:02,532 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:02,557 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 61.8985ms 404 
+2020-04-24 14:51:04,475 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:04,531 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:04,557 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 61.1897ms 404 
+2020-04-24 14:51:06,509 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:06,554 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:06,561 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 80.6303ms 404 
+2020-04-24 14:51:08,496 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:08,551 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:08,576 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 80.9443ms 404 
+2020-04-24 14:51:10,506 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:10,566 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:10,591 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 90.5518ms 404 
+2020-04-24 14:51:12,501 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:12,551 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:12,579 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 79.9672ms 404 
+2020-04-24 14:51:14,487 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:14,546 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:14,572 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 75.4734ms 404 
+2020-04-24 14:51:16,498 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:16,564 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:16,573 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 93.6022ms 404 
+2020-04-24 14:51:18,501 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:18,588 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:18,615 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 114.6429ms 404 
+2020-04-24 14:51:20,480 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:20,522 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:20,548 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 50.8508ms 404 
+2020-04-24 14:51:22,475 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:22,533 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:22,559 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 63.4726ms 404 
+2020-04-24 14:51:24,505 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:24,571 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:24,602 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 97.3256ms 404 
+2020-04-24 14:51:26,497 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:26,577 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:26,601 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 106.785ms 404 
+2020-04-24 14:51:28,479 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:28,574 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:28,599 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 102.646ms 404 
+2020-04-24 14:51:30,487 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:30,552 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:30,561 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 73.8893ms 404 
+2020-04-24 14:51:32,496 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:32,533 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:32,538 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 63.2043ms 404 
+2020-04-24 14:51:34,481 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:34,527 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:34,555 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 54.3005ms 404 
+2020-04-24 14:51:36,480 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:36,542 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:36,548 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 70.3738ms 404 
+2020-04-24 14:51:38,477 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:38,541 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:38,568 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 70.887ms 404 
+2020-04-24 14:51:40,506 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:40,564 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:40,590 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 89.8529ms 404 
+2020-04-24 14:51:42,475 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:42,531 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:42,556 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 61.9096ms 404 
+2020-04-24 14:51:44,484 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:44,553 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:44,585 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 83.7729ms 404 
+2020-04-24 14:51:46,481 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:46,526 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:46,553 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 52.9096ms 404 
+2020-04-24 14:51:48,496 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:48,557 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:48,583 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 87.2557ms 404 
+2020-04-24 14:51:50,504 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:50,606 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:50,616 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 134.5989ms 404 
+2020-04-24 14:51:52,499 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:52,587 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:52,613 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 115.215ms 404 
+2020-04-24 14:51:54,487 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:54,548 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:54,575 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 68.7594ms 404 
+2020-04-24 14:51:56,506 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:56,605 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:56,618 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 135.7262ms 404 
+2020-04-24 14:51:58,505 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:51:58,595 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:51:58,622 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 121.5465ms 404 
+2020-04-24 14:52:00,484 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:00,566 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:00,599 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 97.2138ms 404 
+2020-04-24 14:52:02,494 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:02,572 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:02,597 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 103.2235ms 404 
+2020-04-24 14:52:04,506 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:04,594 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:04,622 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 120.4251ms 404 
+2020-04-24 14:52:06,487 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:06,546 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:06,572 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 73.0843ms 404 
+2020-04-24 14:52:08,478 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:08,502 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:08,528 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 31.9843ms 404 
+2020-04-24 14:52:10,479 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:10,541 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:10,567 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 71.2335ms 404 
+2020-04-24 14:52:12,474 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:12,511 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:12,536 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 42.8899ms 404 
+2020-04-24 14:52:14,509 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:14,538 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:14,568 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 63.3008ms 404 
+2020-04-24 14:52:16,483 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:16,554 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:16,582 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 81.081ms 404 
+2020-04-24 14:52:18,475 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:18,512 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:18,517 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 42.2895ms 404 
+2020-04-24 14:52:20,481 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:20,567 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:20,596 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 96.1499ms 404 
+2020-04-24 14:52:22,494 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:22,553 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:22,579 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 84.2504ms 404 
+2020-04-24 14:52:24,500 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:24,566 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:24,574 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 96.8773ms 404 
+2020-04-24 14:52:26,506 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:26,554 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:26,559 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 78.3924ms 404 
+2020-04-24 14:52:28,476 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:28,534 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:28,559 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 64.1258ms 404 
+2020-04-24 14:52:30,485 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:30,565 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:30,591 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 90.6982ms 404 
+2020-04-24 14:52:32,485 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:32,543 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:32,568 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 69.8363ms 404 
+2020-04-24 14:52:34,481 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:34,542 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:34,548 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 70.4633ms 404 
+2020-04-24 14:52:36,482 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:36,527 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:36,553 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 53.823ms 404 
+2020-04-24 14:52:38,480 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:38,571 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:38,578 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 99.3838ms 404 
+2020-04-24 14:52:40,425 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:40,502 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:40,508 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 108.2233ms 404 
+2020-04-24 14:52:42,171 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/frame/job/stats application/x-www-form-urlencoded; charset=UTF-8 228
+2020-04-24 14:52:42,212 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:42,239 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 47.3122ms 404 
+2020-04-24 14:52:42,431 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/frame/job  
+2020-04-24 14:52:42,481 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 51.617ms 404 
+2020-04-24 14:52:47,410 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/index.html  
+2020-04-24 14:52:47,466 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 73.8671ms 200 text/html
+2020-04-24 14:52:47,611 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/v2/swagger.json  
+2020-04-24 14:52:47,644 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/profiler/results application/json 9
+2020-04-24 14:52:47,767 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:52:47,867 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 225.185ms 200 application/json
+2020-04-24 14:52:47,954 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 331.2787ms 200 application/json;charset=utf-8
+2020-04-24 14:52:56,399 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/  
+2020-04-24 14:52:56,434 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 31.6475ms 404 
+2020-04-24 14:53:00,975 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/index.html  
+2020-04-24 14:53:01,033 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 78.4886ms 200 text/html
+2020-04-24 14:53:01,148 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/v2/swagger.json  
+2020-04-24 14:53:01,191 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:6661/profiler/results application/json 9
+2020-04-24 14:53:01,268 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 77.8759ms 200 application/json;charset=utf-8
+2020-04-24 14:53:01,316 [9] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-04-24 14:53:01,321 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 154.111ms 200 application/json
+2020-04-24 14:53:10,975 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/v1/swagger.json  
+2020-04-24 14:53:11,036 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 60.1137ms 200 application/json;charset=utf-8
+2020-04-24 14:53:12,671 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:6661/swagger/v2/swagger.json  
+2020-04-24 14:53:12,738 [9] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 49.2586ms 200 application/json;charset=utf-8
