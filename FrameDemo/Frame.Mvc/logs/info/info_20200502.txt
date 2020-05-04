@@ -1,0 +1,29 @@
+2020-05-02 17:20:19,421 [12] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger  
+2020-05-02 17:20:21,930 [12] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2765.1983ms 301 
+2020-05-02 17:20:21,996 [12] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-05-02 17:20:22,221 [12] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 172.4004ms 200 text/html
+2020-05-02 17:20:22,290 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/profiler/includes.min.js?v=4.0.138+gcc91adf599  
+2020-05-02 17:20:22,319 [21] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/swagger-ui-standalone-preset.js  
+2020-05-02 17:20:22,414 [23] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/swagger-ui-bundle.js  
+2020-05-02 17:20:22,635 [12] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/swagger-ui.css  
+2020-05-02 17:20:23,055 [26] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2020-05-02 17:20:23,113 [26] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 575.0996ms 200 text/css
+2020-05-02 17:20:23,134 [21] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2020-05-02 17:20:23,200 [21] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 928.3857ms 200 application/javascript
+2020-05-02 17:20:23,367 [12] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2020-05-02 17:20:23,387 [12] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1052.5903ms 200 application/javascript
+2020-05-02 17:20:23,844 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1636.5282ms 200 application/javascript
+2020-05-02 17:20:24,755 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v2/swagger.json  
+2020-05-02 17:20:24,953 [12] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/profiler/includes.min.css?v=4.0.138+gcc91adf599  
+2020-05-02 17:20:25,054 [22] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-05-02 17:20:25,344 [21] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/favicon-32x32.png  
+2020-05-02 17:20:25,469 [12] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 497.4236ms 200 text/css
+2020-05-02 17:20:25,512 [22] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-05-02 17:20:25,625 [21] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2020-05-02 17:20:25,646 [21] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 693.2691ms 200 image/png
+2020-05-02 17:20:26,026 [22] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1050.1479ms 404 text/plain
+2020-05-02 17:20:27,454 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2694.213ms 200 application/json;charset=utf-8
+2020-05-02 17:20:32,607 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v1/swagger.json  
+2020-05-02 17:20:32,698 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 85.6324ms 200 application/json;charset=utf-8
+2020-05-02 17:20:34,635 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v2/swagger.json  
+2020-05-02 17:20:34,750 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 109.9873ms 200 application/json;charset=utf-8

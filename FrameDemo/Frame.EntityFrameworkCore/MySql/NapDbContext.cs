@@ -20,8 +20,8 @@ namespace Frame.EntityFrameworkCore.MySql
 
         public static void Initialize(NapDbContext context)
         {
-            var flage = context.Database.EnsureCreated();
-            if (flage) return;
+            var flag = context.Database.EnsureCreated();
+            if (flag) return;
 
         }
     }

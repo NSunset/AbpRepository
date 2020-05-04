@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Frame.Common;
 
 namespace Frame.EntityFrameworkCore.MySql
 {
@@ -45,8 +46,8 @@ namespace Frame.EntityFrameworkCore.MySql
         public void Initialize()
         {
             var context = this;
-            var flage = context.Database.EnsureCreated();
-            if (flage) return;
+            var flag = context.Database.EnsureCreated();
+            if (flag) return;
             //初始权限
             var count = context.ManagePermission.IgnoreQueryFilters().Count();
             if (count < 1)

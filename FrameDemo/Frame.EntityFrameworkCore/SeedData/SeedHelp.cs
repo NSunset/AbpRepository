@@ -38,7 +38,7 @@ namespace Frame.EntityFrameworkCore
             }
         }
 
-        public static void CreateDbIfNotExists(IWebHost host, IServiceCollection services)
+        public static void CreateDbIfNotExists(IWebHost host)
         {
             using (var scope = host.Services.CreateScope())
             {
