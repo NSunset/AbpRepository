@@ -34,10 +34,11 @@ namespace Frame.EntityFrameworkCore
 
         public override void PostInitialize()
         {
-            if (Exist(AppConfigurationServices.Configuration.GetConnectionString(FrameCoreConsts.ConnectionNapManageDbName)))
-            {
-                SeedHelp.SeedHostDb(IocManager);
-            }
+            //if (Exist(AppConfigurationServices.Configuration.GetConnectionString(FrameCoreConsts.ConnectionNapManageDbName)))
+            //{
+            //    SeedHelp.SeedHostDb(IocManager);
+            //}
+            SeedHelp.CreateDbIfNotExists(IocManager);
         }
 
         private void AddDbContext<T>() where T:AbpDbContext

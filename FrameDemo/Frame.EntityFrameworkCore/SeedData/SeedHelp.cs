@@ -38,6 +38,14 @@ namespace Frame.EntityFrameworkCore
             }
         }
 
+        public static void CreateDbIfNotExists(IIocResolver iocResolver)
+        {
+            WithDbContext<NapManageDbContext>(iocResolver, (NapManageDbContext db) =>
+            {
+                db.Initialize();
+            });
+        }
+
         public static void CreateDbIfNotExists(IWebHost host)
         {
             using (var scope = host.Services.CreateScope())

@@ -5,6 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="logs\**" />
+    <EmbeddedResource Remove="logs\**" />
+    <None Remove="logs\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Remove="Migrations\20191225065821_InitialCreate.cs" />
     <Compile Remove="Migrations\20191225074449_AddPermissionIoc.cs" />
     <Compile Remove="Migrations\20191225081016_InitialCreate.cs" />
