@@ -6,7 +6,6 @@ using Frame.Application;
 using Frame.EntityFrameworkCore;
 using Frame.BackgroundWorker.Hangfire;
 using Abp.Threading.BackgroundWorkers;
-using Frame.Domain.Sms;
 using Frame.BackgroundWorker;
 using Abp.Dependency;
 using Abp.AspNetCore.SignalR;

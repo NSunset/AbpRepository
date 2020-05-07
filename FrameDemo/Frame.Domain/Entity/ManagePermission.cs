@@ -22,7 +22,7 @@ namespace Frame.Domain
         /// <summary>
         /// 1菜单权限，2系统权限
         /// </summary>
-        public int Type { get; set; }
+        public PermissionType Type { get; set; }
 
         /// <summary>
         /// 菜单Ioc

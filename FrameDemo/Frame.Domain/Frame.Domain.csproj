@@ -9,6 +9,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Entity\DesignAmountConf.cs" />
+    <Compile Remove="Entity\DesignLifeStatus.cs" />
+    <Compile Remove="Entity\DesignStyle.cs" />
+    <Compile Remove="Entity\DesignStyleCategory.cs" />
+    <Compile Remove="Entity\DesignStyleImgDetail.cs" />
+    <Compile Remove="Entity\DesignStyleLifeLine.cs" />
+    <Compile Remove="Entity\DesignUserInfo.cs" />
+    <Compile Remove="Entity\ManagePayDetail.cs" />
+    <Compile Remove="Entity\ManagePayHistory.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.2.2" />
   </ItemGroup>
 

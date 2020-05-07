@@ -17,9 +17,7 @@ using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.AspNetCore.Http;
 using System.Reflection;
 using Abp.AspNetCore.SignalR.Hubs;
-using Abp.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore;
-using Frame.EntityFrameworkCore.MySql;
+using Frame.EntityFrameworkCore;
 
 namespace Frame.Mvc
 {
@@ -40,14 +38,8 @@ namespace Frame.Mvc
             {
                 options.Filters.Add(new Microsoft.AspNetCore.Mvc.AutoValidateAntiforgeryTokenAttribute());
             });
-            //services.AddDbContext<DbContext>(options =>
-            //{
-            //    options.UseSqlServer(Configuration.GetConnectionString(FrameCoreConsts.ConnectionNapManageDbName));
-            //    options.UseSqlServer(Configuration.GetConnectionString(FrameCoreConsts.ConnectionNapDbName));
-            //});
-            //     services.AddDbContext<NapDbContext>(options =>
-            //options.UseSqlServer(Configuration.GetConnectionString(FrameCoreConsts.ConnectionNapDbName)));
 
+            //swagger配置
             services.AddSwaggerGen(options =>
             {
                 typeof(ApiVersions).GetEnumNames().ToList().ForEach(version =>
@@ -67,11 +59,16 @@ namespace Frame.Mvc
                 //options.DocumentFilter<InjectMiniProfiler>();
             });
 
+            //跨域
             services.AddCors(options =>
             {
                 options.AddPolicy(FrameCoreConsts.CrossDomainPolicyName, p => p.SetIsOriginAllowed(a => true).AllowAnyHeader().AllowAnyMethod().AllowCredentials());
             });
+
+            //signalR配置
             services.AddSignalR();
+
+            //监控sql执行工具
             services.AddMiniProfiler(options =>
             {
                 // All of this is optional. You can simply call .AddMiniProfiler() for all defaults
@@ -107,7 +104,11 @@ namespace Frame.Mvc
                 // (defaults to true, and connection opening/closing is tracked)
                 options.TrackConnectionOpenClose = true;
             }).AddEntityFramework();
+
+            //JWT配置
             AuthenticationJWT.Config(services, Configuration);
+
+            //Hangfire配置
             if (bool.Parse(Configuration["BackgroundServer:Hangfire:Enable"]))
             {
                 services.AddHangfire(
@@ -118,6 +119,7 @@ namespace Frame.Mvc
 
             return services.AddAbp<FrameMvcModel>(optionsAction =>
             {
+                //log4et配置
                 if (!Abp.Dependency.IocManager.Instance.IsRegistered(typeof(ILoggerFactory)))
                 {
                     optionsAction.IocManager.IocContainer.AddFacility<Castle.Facilities.Logging.LoggingFacility>(f => f.UseAbpLog4Net().WithConfig("log4net.config"));
@@ -128,6 +130,7 @@ namespace Frame.Mvc
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
+            //Hangfire配置
             if (bool.Parse(Configuration["BackgroundServer:Hangfire:Enable"]))
             {
                 app.HangfireConfigure(pathMatch: Configuration["BackgroundServer:Hangfire:PathMatch"].ToString(),
@@ -145,6 +148,7 @@ namespace Frame.Mvc
 
             app.UseAbp();
 
+            //swagger配置
             if (bool.Parse(Configuration["Swagger:Enable"]))
             {
                 app.UseSwagger();
@@ -155,7 +159,7 @@ namespace Frame.Mvc
                         options.SwaggerEndpoint($"/swagger/{version}/swagger.json", $"Frame Api {version}");
                     });
 
-                    //添加MiniProfiler配置
+                    //添加MiniProfiler  监视sql执行工具swagger配置
                     options.IndexStream = () => Assembly.GetExecutingAssembly().GetManifestResourceStream("Frame.Mvc.wwwroot.swagger.index.html");
                     //options.RoutePrefix = "api";
                 });
@@ -175,13 +179,17 @@ namespace Frame.Mvc
 
             app.UseAuthentication();
 
+            //跨域配置
             app.UseCors(FrameCoreConsts.CrossDomainPolicyName);
+
+            //signalR 配置
             app.UseSignalR(routes =>
             {
                 routes.MapHub<AbpCommonHub>("/signalr");
                 routes.MapHub<MyChantHub>("/myChatHub");
             });
 
+            //监控sql执行工具配置
             if (bool.Parse(Configuration["MiniProfiler:Enable"]))
             {
                 app.UseMiniProfiler();

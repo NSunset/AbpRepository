@@ -22,7 +22,6 @@ namespace Frame.EntityFrameworkCore.MySql
         {
             var flag = context.Database.EnsureCreated();
             if (flag) return;
-
         }
     }
 }

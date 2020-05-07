@@ -5,18 +5,18 @@ using System.Text;
 
 namespace Frame.Domain
 {
-    public enum StyleImageKindType
+    public enum PermissionType
     {
         /// <summary>
-        /// 款式
+        /// 菜单权限
         /// </summary>
-        [Description("款式")]
-        Style = 1,
+        [Description("菜单权限")]
+        MenuPermissions = 1,
 
         /// <summary>
-        /// 图片
+        /// 系统权限
         /// </summary>
-        [Description("图片")]
-        Img = 2
+        [Description("系统权限")]
+        SystemAuthority = 2,
     }
 }

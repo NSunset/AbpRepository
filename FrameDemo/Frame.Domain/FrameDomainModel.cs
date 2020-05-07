@@ -4,7 +4,6 @@ using Abp.Threading.BackgroundWorkers;
 using Castle.MicroKernel.Registration;
 using Frame.BackgroundWorker;
 using Frame.Common;
-using Frame.Domain.Sms;
 using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
@@ -39,7 +38,7 @@ namespace Frame.Domain
         {
             if (bool.Parse(configuration["BackgroundServer:Worker:Enable"]))
             {
-                BackgroundWorkManagerConfig.Config<FrameDomainModel>(IocManager);
+                BackgroundWorkManagerConfig.Config<FrameBackgroundWorkerModel>(IocManager);
             }
         }
     }

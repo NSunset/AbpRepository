@@ -34,11 +34,7 @@ namespace Frame.EntityFrameworkCore
 
         public override void PostInitialize()
         {
-            //if (Exist(AppConfigurationServices.Configuration.GetConnectionString(FrameCoreConsts.ConnectionNapManageDbName)))
-            //{
-            //    SeedHelp.SeedHostDb(IocManager);
-            //}
-            SeedHelp.CreateDbIfNotExists(IocManager);
+            NapManageSeedHost.SeedHostDb(IocManager);
         }
 
         private void AddDbContext<T>() where T:AbpDbContext
@@ -54,29 +50,6 @@ namespace Frame.EntityFrameworkCore
                     MySqlDbContextConfiguration.Configure<T>(options.DbContextOptions, options.ConnectionString);
                 }
             });
-        }
-
-        public static bool Exist(string connectionString)
-        {
-            if (connectionString.IsNullOrEmpty())
-            {
-                //connectionString is null for unit tests
-                return true;
-            }
-
-            using (DbConnection connection = new MySqlConnection(connectionString))
-            {
-                try
-                {
-                    connection.Open();
-                }
-                catch
-                {
-                    return false;
-                }
-
-                return true;
-            }
         }
     }
 }

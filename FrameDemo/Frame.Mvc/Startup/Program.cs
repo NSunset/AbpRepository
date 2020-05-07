@@ -24,7 +24,6 @@ namespace Frame.Mvc
                 .Build();
 
             var host = BuildWebHost(args, config);
-            //SeedHelp.CreateDbIfNotExists(host);
             host.Run();
         }
 

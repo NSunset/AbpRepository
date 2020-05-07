@@ -11,23 +11,6 @@ namespace Frame.EntityFrameworkCore.MySql
 {
     public class NapManageDbContext : AbpDbContext
     {
-        public virtual DbSet<DesignAmountConf> DesignLifeStatuss { get; set; }
-
-        public virtual DbSet<DesignLifeStatus> DesignLifeStatus { get; set; }
-
-        public virtual DbSet<DesignStyle> DesignStyle { get; set; }
-
-        public virtual DbSet<DesignStyleCategory> DesignStyleCategory { get; set; }
-
-        public virtual DbSet<DesignStyleImgDetail> DesignStyleImgDetail { get; set; }
-
-        public virtual DbSet<DesignStyleLifeLine> DesignStyleLifeLine { get; set; }
-
-        public virtual DbSet<DesignUserInfo> DesignUserInfo { get; set; }
-
-        public virtual DbSet<ManagePayDetail> ManagePayDetail { get; set; }
-
-        public virtual DbSet<ManagePayHistory> ManagePayHistory { get; set; }
 
         public virtual DbSet<ManageUserInfo> ManageUserInfo { get; set; }
 
@@ -52,25 +35,25 @@ namespace Frame.EntityFrameworkCore.MySql
             var count = context.ManagePermission.IgnoreQueryFilters().Count();
             if (count < 1)
             {
-                context.ManagePermission.Add(new ManagePermission { Id = 1, PerName = "款式审核", PerValue = "/index/myCreation", FatherId = 0, Type = 1 });
-                context.ManagePermission.Add(new ManagePermission { Id = 2, PerName = "微信转账", PerValue = "/index/myMoney", FatherId = 0, Type = 1 });
-                context.ManagePermission.Add(new ManagePermission { Id = 3, PerName = "转账统计", PerValue = "/index/redPackCount", FatherId = 0, Type = 1 });
+                context.ManagePermission.Add(new ManagePermission { Id = 1, PerName = "款式审核", PerValue = "/index/myCreation", FatherId = 0, Type = PermissionType.MenuPermissions });
+                context.ManagePermission.Add(new ManagePermission { Id = 2, PerName = "微信转账", PerValue = "/index/myMoney", FatherId = 0, Type = PermissionType.MenuPermissions });
+                context.ManagePermission.Add(new ManagePermission { Id = 3, PerName = "转账统计", PerValue = "/index/redPackCount", FatherId = 0, Type = PermissionType.MenuPermissions });
 
-                context.ManagePermission.Add(new ManagePermission { Id = 4, PerName = "查询款式列表", PerValue = "/DesignStyle/GetPageStyle", FatherId = 0, Type = 2 });
-                context.ManagePermission.Add(new ManagePermission { Id = 5, PerName = "查询款式详情", PerValue = "/DesignStyle/GetStyleDetail", FatherId = 0, Type = 2 });
-                context.ManagePermission.Add(new ManagePermission { Id = 6, PerName = "款式审核", PerValue = "/DesignStyle/Review", FatherId = 0, Type = 2 });
-                context.ManagePermission.Add(new ManagePermission { Id = 7, PerName = "款式下载", PerValue = "/DesignStyle/DownloadStyleImg", FatherId = 0, Type = 2 });
-                context.ManagePermission.Add(new ManagePermission { Id = 8, PerName = "款式统计", PerValue = "/DesignStyle/GetStyleStatistics", FatherId = 0, Type = 2 });
-                context.ManagePermission.Add(new ManagePermission { Id = 9, PerName = "获取设计师下拉框信息", PerValue = "/DesignUserInfo/GetDesignUserDowdlist", FatherId = 0, Type = 2 });
-                context.ManagePermission.Add(new ManagePermission { Id = 10, PerName = "获取设计师信息", PerValue = "/DesignUserInfo/GetDesignUser", FatherId = 0, Type = 2 });
-                context.ManagePermission.Add(new ManagePermission { Id = 11, PerName = "转账统计", PerValue = "/TransferStatistics/GetStyleStatistics", FatherId = 0, Type = 2 });
-                context.ManagePermission.Add(new ManagePermission { Id = 12, PerName = "获取转账记录数据分页", PerValue = "/TransferStatistics/GetTransferHistoryList", FatherId = 0, Type = 2 });
-                context.ManagePermission.Add(new ManagePermission { Id = 13, PerName = "获取转账详情", PerValue = "/TransferStatistics/GetTransferPayDetail", FatherId = 0, Type = 2 });
-                context.ManagePermission.Add(new ManagePermission { Id = 14, PerName = "导出发放红包数据到Excel", PerValue = "/ExcelExport/IssurRedPacketRxportToFile", FatherId = 0, Type = 2 });
-                context.ManagePermission.Add(new ManagePermission { Id = 15, PerName = "导出转账记录数据到Excel", PerValue = "/ExcelExport/TransferHistoryRxportToFile", FatherId = 0, Type = 2 });
-                context.ManagePermission.Add(new ManagePermission { Id = 16, PerName = "获取发放红包列表数据分页", PerValue = "/IssueRedPackets/GetIssurRedPacketList", FatherId = 0, Type = 2 });
-                context.ManagePermission.Add(new ManagePermission { Id = 17, PerName = "合并支付", PerValue = "/IssueRedPackets/CombinedPayment", FatherId = 0, Type = 2 });
-                context.ManagePermission.Add(new ManagePermission { Id = 18, PerName = "订单详情", PerValue = "/IssueRedPackets/GetStyleOrderDetail", FatherId = 0, Type = 2 });
+                context.ManagePermission.Add(new ManagePermission { Id = 4, PerName = "查询款式列表", PerValue = "/DesignStyle/GetPageStyle", FatherId = 0, Type = PermissionType.SystemAuthority });
+                context.ManagePermission.Add(new ManagePermission { Id = 5, PerName = "查询款式详情", PerValue = "/DesignStyle/GetStyleDetail", FatherId = 0, Type = PermissionType.SystemAuthority });
+                context.ManagePermission.Add(new ManagePermission { Id = 6, PerName = "款式审核", PerValue = "/DesignStyle/Review", FatherId = 0, Type = PermissionType.SystemAuthority });
+                context.ManagePermission.Add(new ManagePermission { Id = 7, PerName = "款式下载", PerValue = "/DesignStyle/DownloadStyleImg", FatherId = 0, Type = PermissionType.SystemAuthority });
+                context.ManagePermission.Add(new ManagePermission { Id = 8, PerName = "款式统计", PerValue = "/DesignStyle/GetStyleStatistics", FatherId = 0, Type = PermissionType.SystemAuthority });
+                context.ManagePermission.Add(new ManagePermission { Id = 9, PerName = "获取设计师下拉框信息", PerValue = "/DesignUserInfo/GetDesignUserDowdlist", FatherId = 0, Type = PermissionType.SystemAuthority });
+                context.ManagePermission.Add(new ManagePermission { Id = 10, PerName = "获取设计师信息", PerValue = "/DesignUserInfo/GetDesignUser", FatherId = 0, Type = PermissionType.SystemAuthority });
+                context.ManagePermission.Add(new ManagePermission { Id = 11, PerName = "转账统计", PerValue = "/TransferStatistics/GetStyleStatistics", FatherId = 0, Type = PermissionType.SystemAuthority });
+                context.ManagePermission.Add(new ManagePermission { Id = 12, PerName = "获取转账记录数据分页", PerValue = "/TransferStatistics/GetTransferHistoryList", FatherId = 0, Type = PermissionType.SystemAuthority });
+                context.ManagePermission.Add(new ManagePermission { Id = 13, PerName = "获取转账详情", PerValue = "/TransferStatistics/GetTransferPayDetail", FatherId = 0, Type = PermissionType.SystemAuthority });
+                context.ManagePermission.Add(new ManagePermission { Id = 14, PerName = "导出发放红包数据到Excel", PerValue = "/ExcelExport/IssurRedPacketRxportToFile", FatherId = 0, Type = PermissionType.SystemAuthority });
+                context.ManagePermission.Add(new ManagePermission { Id = 15, PerName = "导出转账记录数据到Excel", PerValue = "/ExcelExport/TransferHistoryRxportToFile", FatherId = 0, Type = PermissionType.SystemAuthority });
+                context.ManagePermission.Add(new ManagePermission { Id = 16, PerName = "获取发放红包列表数据分页", PerValue = "/IssueRedPackets/GetIssurRedPacketList", FatherId = 0, Type = PermissionType.SystemAuthority });
+                context.ManagePermission.Add(new ManagePermission { Id = 17, PerName = "合并支付", PerValue = "/IssueRedPackets/CombinedPayment", FatherId = 0, Type = PermissionType.SystemAuthority });
+                context.ManagePermission.Add(new ManagePermission { Id = 18, PerName = "订单详情", PerValue = "/IssueRedPackets/GetStyleOrderDetail", FatherId = 0, Type = PermissionType.SystemAuthority });
                 context.SaveChanges();
             }
 

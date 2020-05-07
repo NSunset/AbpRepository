@@ -1,4 +1,5 @@
-﻿using Frame.Common;
+﻿using Abp.Authorization;
+using Frame.Common;
 using Swashbuckle.AspNetCore.Swagger;
 using Swashbuckle.AspNetCore.SwaggerGen;
 using System;
@@ -13,7 +14,8 @@ namespace Frame.Mvc
         public void Apply(Operation operation, OperationFilterContext context)
         {
             var notEnableAuthAttributes = context.ApiDescription.ActionAttributes().OfType<SwaggerNotEnableAuthAttribute>();
-            if (!notEnableAuthAttributes.Any())
+            var allowAnonymousAttributes = context.ApiDescription.ActionAttributes().OfType<AbpAllowAnonymousAttribute>();
+            if (!notEnableAuthAttributes.Any() && !allowAnonymousAttributes.Any())
             {
                 operation.Parameters.Add(new NonBodyParameter()
                 {

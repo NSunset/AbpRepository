@@ -2,6 +2,7 @@
 using Abp.Domain.Entities.Auditing;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
@@ -13,16 +14,19 @@ namespace Frame.Domain
         /// <summary>
         /// 账号
         /// </summary>
+        [StringLength(50)]
         public string Account { get; set; }
 
         /// <summary>
         /// 密码
         /// </summary>
+        [StringLength(50)]
         public string Passwd { get; set; }
 
         [NotMapped]
         public string Token { get; set; }
 
-        public ICollection<ManageUserRole> ManageUserRoles { get; set; }
+        [NotMapped]
+        public string RoleName { get; set; }
     }
 }

@@ -24,15 +24,18 @@ namespace Frame.Application
         private readonly IRepository<ManageUserInfo, long> manageUserRepository;
         private readonly IRepository<ManagePermission, long> permissionRepository;
         private readonly IRepository<ManageUserRole, long> manageUrRepository;
+        private readonly IRepository<ManageUserRole, long> manageUserRoleRepository;
         private readonly IRepository<ManageRolePermission, long> manageRolePRepository;
         private readonly IBackgroundJobManager backgroundJobManager;
-        public TestAppService(IRepository<ManageUserInfo, long> manageUserRepository, IRepository<ManagePermission, long> permissionRepository, IRepository<ManageUserRole, long> manageUrRepository, IRepository<ManageRolePermission, long> manageRolePRepository,IBackgroundJobManager backgroundJobManager)
+        public TestAppService(IRepository<ManageUserInfo, long> manageUserRepository, IRepository<ManagePermission, long> permissionRepository, IRepository<ManageUserRole, long> manageUrRepository, IRepository<ManageRolePermission, long> manageRolePRepository, IBackgroundJobManager backgroundJobManager,
+            IRepository<ManageUserRole, long> manageUserRoleRepository)
         {
             this.manageUserRepository = manageUserRepository;
             this.permissionRepository = permissionRepository;
             this.manageUrRepository = manageUrRepository;
             this.manageRolePRepository = manageRolePRepository;
             this.backgroundJobManager = backgroundJobManager;
+            this.manageUserRoleRepository = manageUserRoleRepository;
         }
         /// <summary>
         /// 测试
@@ -56,7 +59,6 @@ namespace Frame.Application
 
         [Abp.Authorization.AbpAllowAnonymous]
         [HttpPost]
-        [SwaggerNotEnableAuth]
         public async Task<string> Login(string userName, string pwd)
         {
             var user = manageUserRepository.FirstOrDefault(a => a.Account == userName.Trim() && a.Passwd == Frame.Common.EncryptDecode.GetMD5_32(pwd.Trim()));
@@ -73,7 +75,7 @@ namespace Frame.Application
         [Abp.Authorization.AbpAllowAnonymous]
         public async Task<string> TestV2Ha()
         {
-            backgroundJobManager.Enqueue<Frame.Domain.Sms.SimpleSendSmsJob, int>(new Random().Next(100, 1000));
+            backgroundJobManager.Enqueue<Frame.BackgroundWorker.SimpleSendSmsJob, int>(new Random().Next(100, 1000));
             return "v2";
         }
 
@@ -85,7 +87,7 @@ namespace Frame.Application
                 FatherId = 0,
                 PerName = "巡山小队",
                 PerValue = "小旋风",
-                Type = 2
+                Type = PermissionType.SystemAuthority
             };
             var id = permissionRepository.InsertAndGetId(permission);
             return id > 0;
@@ -97,11 +99,20 @@ namespace Frame.Application
         {
             userName = userName.Trim();
             pwd = Frame.Common.EncryptDecode.GetMD5_32(pwd.Trim());
-            var user = manageUserRepository.GetAllIncluding(a => a.ManageUserRoles).FirstOrDefault(a => a.Account == userName && a.Passwd == pwd);
-            if (user != null)
+            var query = (from user in manageUserRepository.GetAll()
+                         join ur in manageUserRoleRepository.GetAll() on user.Id equals ur.UserId
+                         join rp in manageRolePRepository.GetAll() on ur.RoleId equals rp.RoleId into urps
+                         from urp in urps.DefaultIfEmpty()
+                         where user.Account == userName && user.Passwd == pwd
+                         select new
+                         {
+                             user.Id,
+                             urp.PermissionId,
+                         }).ToList();
+
+            if (query != null && query.First().Id > 0)
             {
-                var roleId = user.ManageUserRoles.Select(a => a.RoleId);
-                var permissionId = manageRolePRepository.GetAll().Where(a => roleId.Contains(a.RoleId)).Select(a => a.PermissionId).ToList();
+                var permissionId = query.Select(a => a.PermissionId).Distinct().ToList();
                 if (permissionId != null && permissionId.Any())
                 {
                     IEnumerable<ManagePermission> permissions = permissionRepository.GetAll().Where(a => permissionId.Contains(a.Id));
@@ -111,6 +122,6 @@ namespace Frame.Application
             }
             return false;
         }
-        
+
     }
 }

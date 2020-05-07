@@ -1,67 +1,41 @@
 ﻿using Abp.Dependency;
 using Abp.Domain.Uow;
-using Abp.EntityFrameworkCore;
+using Frame.Common;
+using Frame.Domain;
 using Frame.EntityFrameworkCore.MySql;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using System;
-using System.Collections.Generic;
-using System.Text;
-using Abp.EntityFrameworkCore.Uow;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.DependencyInjection;
+using Abp.EntityFrameworkCore.Uow;
 
 namespace Frame.EntityFrameworkCore
 {
     public static class SeedHelp
     {
-        public static void SeedHostDb(IIocResolver iocResolver)
-        {
-            WithDbContext<NapManageDbContext>(iocResolver, SeedHostDb);
-        }
-
-        private static void SeedHostDb(NapManageDbContext context)
-        {
-            new RoleAndUserBuilder(context).Create();
-        }
-
-
-        private static void WithDbContext<T>(IIocResolver iocResolver,Action<T> context)where T: DbContext
+        public static void WithDbContext<T>(IIocResolver iocResolver,Action<T> context)where T: DbContext
         {
             using (var uowManage=iocResolver.ResolveAsDisposable<IUnitOfWorkManager>())
             {
                 using (var uow=uowManage.Object.Begin(System.Transactions.TransactionScopeOption.Suppress))
                 {
-                    var db = uowManage.Object.Current.GetDbContext<T>();
-                    context(db);
-                    uow.Complete();
+                    try
+                    {
+                        var db = uowManage.Object.Current.GetDbContext<T>();
+                        context(db);
+                        uow.Complete();
+                    }
+                    catch (Exception ex)
+                    {
+
+                        throw;
+                    }
+                    
                 }
             }
         }
 
-        public static void CreateDbIfNotExists(IIocResolver iocResolver)
-        {
-            WithDbContext<NapManageDbContext>(iocResolver, (NapManageDbContext db) =>
-            {
-                db.Initialize();
-            });
-        }
-
-        public static void CreateDbIfNotExists(IWebHost host)
-        {
-            using (var scope = host.Services.CreateScope())
-            {
-                var services = scope.ServiceProvider;
-
-                try
-                {
-                    var context = services.GetRequiredService<NapManageDbContext>();
-                    context.Initialize();
-                }
-                catch (Exception ex)
-                {
-                }
-            }
-        }
     }
 
 }

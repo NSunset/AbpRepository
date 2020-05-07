@@ -1,0 +1,14 @@
+2020-05-06 14:38:57,677 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-05-06 14:38:58,555 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 936.6111ms 200 text/html
+2020-05-06 14:38:59,109 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v2/swagger.json  
+2020-05-06 14:38:59,164 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-05-06 14:38:59,613 [11] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-05-06 14:38:59,749 [11] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 592.4711ms 404 text/plain
+2020-05-06 14:38:59,841 [15] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 732.1969ms 200 application/json;charset=utf-8
+2020-05-06 15:25:36,715 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/index.html  
+2020-05-06 15:25:37,150 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 474.8565ms 200 text/html
+2020-05-06 15:25:37,283 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:52458/swagger/v2/swagger.json  
+2020-05-06 15:25:37,375 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:52458/profiler/results application/json 9
+2020-05-06 15:25:37,555 [10] INFO  Microsoft.AspNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+2020-05-06 15:25:37,675 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 352.938ms 404 text/plain
+2020-05-06 15:25:37,890 [14] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 596.6275ms 200 application/json;charset=utf-8
